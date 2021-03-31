@@ -2,7 +2,11 @@
 title: "GeoStyle"
 ---
 
+![](images/logo_GS2.png){width="239"}
+
 ***Bienvenidos y bienvenidas a GeoStyle!!***
+
+**Interactúa con el mapa !** (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**
 
 ```{r, echo=FALSE}
 pacman::p_load(tidyverse, leaflet)
@@ -14,3 +18,5 @@ leaflet() %>%
                    color = "yellow", fillColor = "yellow", radius = 30)
 
 ```
+
+![](images/ndvi_rm.gif)
