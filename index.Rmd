@@ -1,5 +1,16 @@
 ---
-title: "My Website"
+title: "GeoStyle"
 ---
 
-Hola a todos y todas, bienvenidos a GeoStyle!!
+***Bienvenidos y bienvenidas a GeoStyle!!***
+
+```{r, echo=FALSE}
+pacman::p_load(tidyverse, leaflet)
+
+leaflet() %>% 
+  addProviderTiles(providers$Esri.WorldImagery) %>% 
+  addMarkers(lat = -33, lng = -71, popup = "Estación") %>% 
+  addCircleMarkers(lat = -33, lng = -71.01, popup = "Vegetación estudiada", 
+                   color = "yellow", fillColor = "yellow", radius = 30)
+
+```
