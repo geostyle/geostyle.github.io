@@ -7,22 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+Te invito a inscribirte a mis cursos online !!
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+[Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
-```{r cars}
-summary(cars)
-```
+[Introducción a SIG y teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
-## Including Plots
+[Mapas profesionales y mapas web con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[Introducción a ecología del paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
