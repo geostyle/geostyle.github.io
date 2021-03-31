@@ -1,12 +1,12 @@
 ---
-title: "GeoStyle"
+title: "Bienvenidos y bienvenidas!"
 ---
 
 ![](images/logo_GS2.png){width="239"}
 
-***Bienvenidos y bienvenidas a GeoStyle!!***
 
-**Interactúa con el mapa !** (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**
+
+**Interactúa con el mapa !** (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
 
 ```{r, echo=FALSE}
 pacman::p_load(tidyverse, leaflet)
