@@ -5,12 +5,15 @@ navbar:
   left:
     - text: "Inicio"
       href: index.html
+      icon: fa-home
     - text: "Cursos"
       href: cursos.html
+      icon: fa-star
     - text: "Sobre"
       href: about.html
     - text: "Contacto"
       href: contacto.html
+      icon: fa-envelope
 output:
   html_document:
     theme: cosmo
