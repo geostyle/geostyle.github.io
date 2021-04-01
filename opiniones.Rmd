@@ -3,6 +3,8 @@ title: "Opiniones de nuestros cursos"
 output: html_document
 ---
 
+\
+
 ![](images/3-01.png)
 
 ![](images/8.png)
