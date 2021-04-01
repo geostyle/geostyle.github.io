@@ -7,13 +7,20 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Te invito a inscribirte a mis cursos online !!
+# **Te invito a inscribirte !!**
 
+# [Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
-[Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
+[![](images/logo.png){width="318"}](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
-[Introducción a SIG y teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
+# [Introducción a SIG y teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
-[Mapas profesionales y mapas web con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+[![](images/logo-01.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
-[Introducción a ecología del paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
+# [Mapas profesionales y mapas web con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+
+[![](images/logo4.png){width="321"}](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+
+# [Introducción a ecología del paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
+
+[![](images/logo-02.png){width="315"}](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)

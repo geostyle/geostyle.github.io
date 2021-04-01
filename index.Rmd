@@ -1,8 +1,11 @@
 ---
-title: "Bienvenidos y bienvenidas!"
+title: "GeoStyle"
 ---
 
-![](images/logo_GS2.png){width="239"}
+
+# Bienvenidos y bienvenidas!
+
+![](images/logo_GS2.png){width="228"}
 
 **Interactúa con el mapa !** (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
 

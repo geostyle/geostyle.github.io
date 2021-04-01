@@ -2,3 +2,10 @@
 title: "Contacto"
 output: html_document
 ---
+
+Mail contacto: ajsalazar@uc.cl
+
+[**Página Linkedin**](https://www.linkedin.com/company/geostyle/)
+
+[**Canal YouTube**](https://www.youtube.com/channel/UC3Hepnp1iAuiELS5kDGrReQ) 
+
