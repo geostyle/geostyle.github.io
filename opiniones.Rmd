@@ -1,0 +1,26 @@
+---
+title: "Opiniones de nuestros cursos"
+output: html_document
+---
+
+![](images/3-01.png)
+
+![](images/8.png)
+
+![](images/2.png)
+
+![](images/1.png)
+
+![](images/4.png)
+
+![](images/5.png)
+
+![](images/6.png)
+
+![](images/7.png)
+
+![](images/chicho%202.png)
+
+![](images/miguel2.png)
+
+
