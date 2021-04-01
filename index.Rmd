@@ -3,11 +3,16 @@ title: "GeoStyle"
 ---
 
 
-# Bienvenidos y bienvenidas!
+# **Bienvenidos y bienvenidas!**
 
 ![](images/logo_GS2.png){width="228"}
 
-**Interactúa con el mapa !** (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
+\
+\
+
+## **Interactúa con el mapa !** 
+
+(**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
 
 ```{r, echo=FALSE}
 pacman::p_load(tidyverse,leaflet, leaflet.extras)
@@ -28,5 +33,9 @@ leaflet() %>%
   addStyleEditor
 
 ```
+
+\
+
+## NDVI año 2019 Región Metropolitana, Chile
 
 ![](images/ndvi_rm.gif)

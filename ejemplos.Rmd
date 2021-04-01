@@ -2,22 +2,36 @@
 title: "Ejemplos de lo que aprénderas en los cursos!"
 output: html_document
 ---
+\
+
 
 ## **Serie de tiempo índice NDVI**
 
 ![](images/mapita-01.png)
+\
+\
+\
 
 ## **Animación NDVI África**
 
 ![](images/modis-ndvi-time-series-animation.gif){width="574"}
+\
+\
+\
 
 ## **Mapa Uruguay**
 
 ![](images/mapa_uruguay.png)
+\
+\
+\
 
 ## **Índice NDVI con diferentes paletas de colores**
 
 ![](images/map_colors.png)
+\
+\
+\
 
 ## **Mapa Parque Nacional Conguillío**
 

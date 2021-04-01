@@ -13,7 +13,7 @@ navbar:
       href: ejemplos.html
     - text: "Opiniones"
       href: opiniones.html
-    - text: "Sobre"
+    - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"
       href: contacto.html
