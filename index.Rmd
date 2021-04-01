@@ -8,7 +8,6 @@ title: "GeoStyle"
 ![](images/logo_GS2.png){width="228"}
 
 \
-\
 
 ## **Interactúa con el mapa !** 
 
