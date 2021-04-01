@@ -3,7 +3,11 @@ title: "Contacto"
 output: html_document
 ---
 
-Mail contacto: ajsalazar@uc.cl
+**Hola amigo o amiga, contáctanos con confianza!** 
+
+**Estamos para resolver todas tus dudas para que tomes una decisión lo más informad@ posible!**
+
+**Mail contacto: ajsalazar@uc.cl**
 
 [**Página Linkedin**](https://www.linkedin.com/company/geostyle/)
 

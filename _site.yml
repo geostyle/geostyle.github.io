@@ -9,6 +9,8 @@ navbar:
     - text: "Cursos"
       href: cursos.html
       icon: fa-star
+    - text: "Ejemplos"
+      href: ejemplos.html
     - text: "Sobre"
       href: about.html
     - text: "Contacto"
