@@ -11,6 +11,8 @@ navbar:
       icon: fa-star
     - text: "Ejemplos"
       href: ejemplos.html
+    - text: "Metodología"
+      href: metodologia.html
     - text: "Opiniones"
       href: opiniones.html
     - text: "Sobre GeoStyle"

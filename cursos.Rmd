@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # **Te invito a inscribirte !!**
+**Para conocer más detalles y para inscribirte en los cursos, da click en su nombre :)**
+
 
 \
 

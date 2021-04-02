@@ -1,0 +1,24 @@
+---
+title: "Metodología de los cursos"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\
+
+**Todos nuestros cursos tienen una metodología flexible, ya que estos son videos grabados que se encuentran en la plataforma *Udemy*, por lo que podrás avanzar cuando más te acomode.**
+
+\
+
+**Puntos importantes:**
+
+- **Una vez que te inscribes al curso, tienes acceso de por vida al contenido, por lo que puedes avanzar en el curso a tu propio ritmo.**
+
+- **Los cursos tienen tareas para practicar lo aprendido. Las tareas no son obligatorias, pero se recomienda que las realices, ya que para dominar lo aprendido en los cursos tienes que practicar y practicar. Recuerda que la práctica hace al maestro.**
+
+- **Una vez finalizado el curso, recibes un certificado de aprobación del curso.**
+
+- **Los cursos se complementan muy bien entre ellos, entonces lo que aprendas en un curso puedes juntarlo con lo que aprendiste en otro y así realizar procedimientos más poderosos.** 
