@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "GeoStyle"
   left:
-    - text: "Inicio"
+    - text: ""
       href: index.html
       icon: fa-home
     - text: "Cursos"
