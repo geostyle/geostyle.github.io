@@ -3,7 +3,7 @@ title: "GeoStyle"
 ---
 
 
-# **Bienvenidos y bienvenidas!**
+# **Cursos online y consultorías**
 
 ![](images/logo_GS2.png){width="228"}
 
