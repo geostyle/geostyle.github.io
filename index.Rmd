@@ -2,14 +2,11 @@
 title: "GeoStyle"
 ---
 
-
 # **Cursos online y consultorías**
 
-![](images/logo_GS2.png){width="228"}
+![](images/logo_final.png){width="299"}\
 
-\
-
-## **Interactúa con el mapa !** 
+## **Interactúa con el mapa !**
 
 (**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
 
