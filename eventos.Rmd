@@ -1,0 +1,30 @@
+---
+title: "Eventos"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\
+
+## **Próximo**
+
+\
+
+**Más información click [acá](https://mapandres.github.io/curso_espacial/)**
+
+![](images/gif_espacial_2.gif){width="629"}
+
+\
+
+## **Anteriores**
+
+\
+
+![](images/charla_eco_pai.jpeg){width="581"}
+
+\
+
+![](images/gif_curso_espacial.gif){width="586"}
