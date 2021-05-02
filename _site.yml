@@ -11,6 +11,7 @@ navbar:
       icon: fa-star
     - text: "Eventos"
       href: eventos.html
+      icon: fa-exclamation-circle
     - text: "Ejemplos"
       href: ejemplos.html
     - text: "Metodología"
