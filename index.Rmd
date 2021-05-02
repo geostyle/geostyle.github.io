@@ -15,7 +15,7 @@ pacman::p_load(tidyverse,leaflet, leaflet.extras)
 
 leaflet() %>% 
   addProviderTiles(providers$Esri.WorldImagery) %>% 
-  addMarkers(lat = -33, lng = -71, popup = "Estación") %>% 
+  addMarkers(lat = -33, lng = -71, label = "Bienvenido a GeoStyle!") %>% 
   addMeasure(primaryLengthUnit = "meters",
              secondaryLengthUnit = "kilometers",
              primaryAreaUnit = "hectares",
@@ -25,7 +25,6 @@ leaflet() %>%
              position = "bottomright") %>% 
   addDrawToolbar(targetGroup = "dibujo",
                  editOptions = editToolbarOptions(selectedPathOptions = selectedPathOptions())) %>%
-  addLayersControl(overlayGroups = c("dibujo"),options = layersControlOptions(collapsed = FALSE)) %>%
   addStyleEditor
 
 ```
