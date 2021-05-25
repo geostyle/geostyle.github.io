@@ -13,17 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Más información click [acá](https://mapandres.github.io/curso_espacial/)**
+**Más información click [acá](https://mapandres.github.io/curso_gee/)**
 
-![](images/gif_espacial_2.gif){width="629"}
+![](images/gif_intro_GEE.gif){width="581"}
 
 \
+
+**Más información click [acá](https://mapandres.github.io/curso_r/)**
+
+![](images/flyer.png){width="581"}
 
 ## **Anteriores**
 
 \
 
 ![](images/charla_eco_pai.jpeg){width="581"}
+
+\
+
+![](images/gif_espacial_2.gif){width="581"}
 
 \
 
