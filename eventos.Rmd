@@ -15,9 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Más información click [acá](https://mapandres.github.io/curso_gee/)**
 
-![](images/gif_intro_GEE.gif){width="581"}
-
-\
+![](images/gif_intro_GEE-01.gif){width="581"}
 
 **Más información click [acá](https://mapandres.github.io/curso_r/)**
 
