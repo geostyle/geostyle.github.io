@@ -13,16 +13,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Más información click [acá](https://mapandres.github.io/curso_gee/)**
+**Por el momento no hay nuevos eventos programados**
 
-![](images/gif_intro_GEE-01.gif){width="581"}
-
+\
 
 ## **Anteriores**
 
 \
 
 ![](images/charla_eco_pai.jpeg){width="581"}
+
+\
+
+![](images/gif_intro_GEE-01.gif){width="581"}
 
 \
 
