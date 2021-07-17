@@ -41,6 +41,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+# [SIG y Teledetección en R (Intermedio)](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
+
+[![](images/logo-03.png){width="318"}](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
+
+**Qué aprenderás:**
+
+-   **Big Data Geoespacial**
+
+-   **Conectar Google Earth Engine con R**
+
+-   **Procesamiento de archivos raster y archivos vectoriales**
+
+\
+
 # [Mapas Web y Mapas Temáticos con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
 
 [![](images/logo4.png){width="318"}](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
