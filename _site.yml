@@ -7,17 +7,19 @@ navbar:
       href: index.html
       icon: fa-home
     - text: "Cursos"
-      href: cursos.html
       icon: fa-star
+      menu: 
+        - text: "Catálogo"
+          href: cursos.html
+        - text: "Ejemplos"
+          href: ejemplos.html
+        - text: "Metodología"
+          href: metodologia.html
+        - text: "Opiniones"
+          href: opiniones.html
     - text: "Eventos"
       href: eventos.html
       icon: fa-exclamation-circle
-    - text: "Ejemplos"
-      href: ejemplos.html
-    - text: "Metodología"
-      href: metodologia.html
-    - text: "Opiniones"
-      href: opiniones.html
     - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"
