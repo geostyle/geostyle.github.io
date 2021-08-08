@@ -4,14 +4,15 @@ title: "Sobre GeoStyle"
 
 \
 
-***GeoStyle*** **es una consultora ambiental, la cual ofrece cursos online de calidad a precios accesibles y consultorías privadas de diversos tipos.**
-
-**La motivación de crear a GeoStyle fue que las personas se dieron cuenta que la educación online es el presente y el futuro, y se hace cada vez más necesario perfeccionarse constantemente. Sin embargo, la mayoría de los cursos online poseen precios elevados para estudiantes y desempleados.**
-
-**Debido a esto es que GeoStyle busca que la mayoría de las personas puedan acceder a cursos online de primer nivel y logren avanzar en sus vidas profesionales.**
+***GeoStyle*** **es una consultora ambiental originaria de Chile, la cual ofrece consultorías privadas de diversos tipos y cursos/capacitaciones online.**
 
 **Las principales áreas de GeoStyle son:**
 
 - **Teledetección y SIG** 
 - **Programación** 
 - **Ecología aplicada**
+
+**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
+
+**Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible.**
+

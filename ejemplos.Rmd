@@ -11,6 +11,27 @@ output: html_document
 \
 \
 
+## **Mapa web interactivo**
+
+```{r, echo=FALSE}
+pacman::p_load(tidyverse,leaflet, leaflet.extras)
+
+leaflet() %>% 
+  addProviderTiles(providers$Esri.WorldImagery) %>% 
+  addMarkers(lat = -33, lng = -71, label = "Bienvenido a GeoStyle!") %>% 
+  addMeasure(primaryLengthUnit = "meters",
+             secondaryLengthUnit = "kilometers",
+             primaryAreaUnit = "hectares",
+             secondaryAreaUnit = "sqmeters",
+             activeColor = "red",
+             completedColor = "red",
+             position = "bottomright") %>% 
+  addDrawToolbar(targetGroup = "dibujo",
+                 editOptions = editToolbarOptions(selectedPathOptions = selectedPathOptions())) %>%
+  addStyleEditor
+
+```
+
 ## **Animación NDVI África**
 
 ![](images/modis-ndvi-time-series-animation.gif){width="574"}\
@@ -23,7 +44,7 @@ output: html_document
 \
 \
 
-## **Serie de tiempo NDVI para diferentes coberturas**  ![](images/NDVI_ts.png) 
+## **Serie de tiempo NDVI para diferentes coberturas** ![](images/NDVI_ts.png)
 
 ## **Índice NDVI con diferentes paletas de colores**
 

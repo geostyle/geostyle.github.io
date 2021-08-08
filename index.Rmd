@@ -1,36 +1,17 @@
 ---
 title: "GeoStyle"
 ---
-
+  
 # **Consultora Ambiental**
+  
+\
 
 ![](images/logo_final.png){width="299"}\
 
-## **Interactúa con el mapa !**
+\
 
-(**Si quieres aprender a hacerlos ve a la pestaña "*Cursos*")**\
-
-```{r, echo=FALSE}
-pacman::p_load(tidyverse,leaflet, leaflet.extras)
-
-leaflet() %>% 
-  addProviderTiles(providers$Esri.WorldImagery) %>% 
-  addMarkers(lat = -33, lng = -71, label = "Bienvenido a GeoStyle!") %>% 
-  addMeasure(primaryLengthUnit = "meters",
-             secondaryLengthUnit = "kilometers",
-             primaryAreaUnit = "hectares",
-             secondaryAreaUnit = "sqmeters",
-             activeColor = "red",
-             completedColor = "red",
-             position = "bottomright") %>% 
-  addDrawToolbar(targetGroup = "dibujo",
-                 editOptions = editToolbarOptions(selectedPathOptions = selectedPathOptions())) %>%
-  addStyleEditor
-
-```
+## **Bienvenidos !**
 
 \
 
-## NDVI año 2019 Región Metropolitana, Chile
-
-![](images/ndvi_rm.gif)
+![NDVI año 2019 Región Metropolitana, Chile](images/ndvi_rm.gif)
