@@ -5,9 +5,7 @@ output: html_document
 
 \
 
-**Hola amigo o amiga, contáctanos con confianza!** 
-
-**Estamos para resolver todas tus dudas para que tomes una decisión lo más informad@ posible!**
+**Estamos para resolver todas tus dudas!**
 
 **Mail contacto: ajsalazar@uc.cl**
 
