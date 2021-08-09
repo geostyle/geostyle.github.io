@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Por el momento no hay nuevos eventos programados**
+![](images/gif_promocional.gif){width="581"}
 
 \
 
