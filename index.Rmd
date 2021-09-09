@@ -1,8 +1,9 @@
 ---
-title: "GeoStyle"
+title: ""
 ---
-  
-# **Consultora Ambiental**
+
+# **GeoStyle - Consultora Ambiental**
+
   
 \
 
@@ -10,7 +11,7 @@ title: "GeoStyle"
 
 \
 
-## **Bienvenidos !**
+**BIENVENIDOS !**
 
 \
 

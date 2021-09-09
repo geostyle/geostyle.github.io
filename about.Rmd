@@ -1,6 +1,8 @@
 ---
-title: "Sobre GeoStyle"
+title: ""
 ---
+
+# **Sobre GeoStyle**
 
 \
 
@@ -8,11 +10,25 @@ title: "Sobre GeoStyle"
 
 **Las principales áreas de GeoStyle son:**
 
-- **Teledetección y SIG** 
-- **Programación** 
-- **Ecología aplicada**
+-   **Teledetección y SIG**
+-   **Programación**
+-   **Ecología aplicada**
 
 **Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
 
 **Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible.**
 
+\
+\
+
+***Fundador GeoStyle:***
+
+![](images/1581604252963.jfif){width="236"}
+
+**Andrés Salazar, Magíster en Recursos Naturales e Ingeniero Agrónomo. Ambos grados estudiados en la Pontificia Universidad Católica de Chile. Principales temas de interés: Ecología del paisaje, Modelos de Distribución de Especies (SDM), Cambio de uso y cobertura de suelo, entre otros**
+
+**Mail contacto:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
+
+**Perfil LinkedIn:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
+
+**Perfil Researchgate:** <https://www.researchgate.net/profile/Andres-Salazar-14>

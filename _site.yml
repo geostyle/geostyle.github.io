@@ -27,6 +27,5 @@ navbar:
       icon: fa-envelope
 output:
   rmdformats::downcute:
-    highlight: tango
     downcute_theme: "chaos"
     

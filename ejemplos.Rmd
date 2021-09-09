@@ -1,8 +1,10 @@
 ---
-title: "Ejemplos de lo que aprénderas en los cursos!"
+title: ""
 ---
 
 \
+
+# **Ejemplos de lo que aprénderas en los cursos**
 
 ## **Serie de tiempo índice NDVI**
 
@@ -43,7 +45,9 @@ leaflet() %>%
 \
 \
 
-## **Serie de tiempo NDVI para diferentes coberturas** ![](images/NDVI_ts.png)
+## **Serie de tiempo NDVI para diferentes coberturas** 
+
+![](images/NDVI_ts.png)
 
 ## **Índice NDVI con diferentes paletas de colores**
 

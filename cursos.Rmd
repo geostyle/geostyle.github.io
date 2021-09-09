@@ -1,12 +1,12 @@
 ---
-title: "\nCursos Online (Asincrónicos)"
+title: ""
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Te invito a inscribirte!**
+# **Cursos Online (Asincrónicos)**
 
 **Para conocer más detalles y para inscribirte en los cursos, da click en su nombre**
 

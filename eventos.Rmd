@@ -1,12 +1,12 @@
 ---
-title: "Eventos"
+title: ""
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-\
+# **Eventos**
 
 **Acá se publican los eventos que serán realizados (cursos en vivo, charlas, entre otros)**
 

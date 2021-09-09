@@ -1,10 +1,12 @@
 ---
-title: "Contacto"
+title: ""
 ---
+
+# **Contacto**
 
 \
 
-**Estamos para resolver todas tus dudas!**
+**Para consultorías, colaboraciones o resolver dudas, puedes escribir al siguiente mail:**
 
 **Mail contacto: ajsalazar@uc.cl**
 
