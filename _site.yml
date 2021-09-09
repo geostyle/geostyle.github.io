@@ -26,6 +26,7 @@ navbar:
       href: contacto.html
       icon: fa-envelope
 output:
-  html_document:
-    theme: cosmo
+  rmdformats::downcute:
+    highlight: tango
+    downcute_theme: "chaos"
     

@@ -1,6 +1,5 @@
 ---
 title: "Metodología de los cursos"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}

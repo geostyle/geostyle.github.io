@@ -1,6 +1,5 @@
 ---
 title: "Opiniones de nuestros cursos"
-output: html_document
 ---
 
 \

@@ -1,6 +1,5 @@
 ---
-title: "Cursos Online (Asincrónicos)"
-output: html_document
+title: "\nCursos Online (Asincrónicos)"
 ---
 
 ```{r setup, include=FALSE}
@@ -11,9 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Para conocer más detalles y para inscribirte en los cursos, da click en su nombre**
 
-\
-
-# [Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
+## [Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
 [![](images/logo.png){width="318"}](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
@@ -25,9 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Realizar clasificaciones con algoritmos de Machine Learning**
 
-\
-
-# [Introducción a SIG y Teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
+## [Introducción a SIG y Teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
 [![](images/logo-01.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
@@ -39,9 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
-\
-
-# [SIG y Teledetección en R (Intermedio)](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
+## [SIG y Teledetección en R (Intermedio)](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
 
 [![](images/logo-03.png){width="318"}](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
 
@@ -53,9 +46,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
-\
-
-# [Mapas Web y Mapas Temáticos con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+## [Mapas Web y Mapas Temáticos con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
 
 [![](images/logo4.png){width="318"}](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
 
@@ -67,9 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Realizar mapas web interactivos con "leaflet", para comunicar información, los cuales pueden ser publicados en páginas web para compartirlos de manera fácil y efectiva**
 
-\
-
-# [Introducción a Ecología del Paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
+## [Introducción a Ecología del Paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
 
 [![](images/logo-02.png){width="318"}](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
 
@@ -81,9 +70,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Cálculo de métricas de paisaje e índices de conectividad**
 
-\
-
-# [Introducción a la Programación en R para Principiantes](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
+## [Introducción a la Programación en R para Principiantes](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
 
 [![](images/r2.png){width="318"}](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
 

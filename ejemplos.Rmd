@@ -1,6 +1,5 @@
 ---
 title: "Ejemplos de lo que aprénderas en los cursos!"
-output: html_document
 ---
 
 \
