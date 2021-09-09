@@ -13,6 +13,7 @@ title: ""
 -   **Teledetección y SIG**
 -   **Programación**
 -   **Ecología aplicada**
+-   **Machine Learning**
 
 **Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
 
@@ -25,7 +26,7 @@ title: ""
 
 ![](images/1581604252963.jfif){width="236"}
 
-**Andrés Salazar, Magíster en Recursos Naturales e Ingeniero Agrónomo. Ambos grados estudiados en la Pontificia Universidad Católica de Chile. Principales temas de interés: Ecología del paisaje, Modelos de Distribución de Especies (SDM), Cambio de uso y cobertura de suelo, entre otros**
+**Andrés Salazar, Magíster en Recursos Naturales e Ingeniero Agrónomo. Ambos grados estudiados en la Pontificia Universidad Católica de Chile. Principales temas de interés: Ecología del paisaje, Modelos de Distribución de Especies (SDM), Cambio de uso y cobertura de suelo, modelos predictivos de Machine Learning, entre otros**
 
 **Mail contacto:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
 
