@@ -14,12 +14,36 @@ title: ""
 
 ## **Mapa web interactivo**
 
-```{r, echo=FALSE}
-pacman::p_load(tidyverse,leaflet, leaflet.extras)
+```{r, echo=FALSE, warning=F, message=F}
+pacman::p_load(tidyverse,leaflet, leaflet.extras, sf, raster)
+
+congui <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\conguillio\\conguillio.shp")
+
+araucania <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\araucania\\araucania.shp") %>% 
+  st_transform(crs = 4326)
+
+nahuelbuta <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\nahuelbuta\\nahuelbuta.shp") %>% 
+  st_transform(crs = 4326)
+
+huerquehue <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\huerquehue\\huerquehue.shp") %>% 
+  st_transform(crs = 4326)
+
+cent_ara <- araucania[1,1] %>% st_centroid
+
+precip <- getData(name = "worldclim", var = "prec", res = 0.5, lat = -38.64932, lon = -72.27468)
+
+pre_jul <- precip[[7]] %>% crop(araucania) %>% mask(araucania)
+
+paleta <- colorNumeric("viridis", domain = c(121, 511), na.color = NA, reverse = T)
 
 leaflet() %>% 
   addProviderTiles(providers$Esri.WorldImagery) %>% 
-  addMarkers(lat = -33, lng = -71, label = "Bienvenido a GeoStyle!") %>% 
+  addPolygons(data = araucania, color = "blue", popup = "Región de la Araucanía") %>% 
+  addPolygons(data = congui, color = "red", fillOpacity = 0, popup = "Parque Conguillío") %>% 
+  addPolygons(data = nahuelbuta, color = "purple", fillOpacity = 0, popup = "Parque Nahuelbuta") %>% 
+  addPolygons(data = huerquehue, color = "black", fillOpacity = 0, popup = "Parque Huerquehue") %>% 
+  addRasterImage(pre_jul, colors = paleta) %>% 
+  addLegend(pal = paleta, values = c(121, 511), title = "Precipitación (mm)", opacity = 1) %>% 
   addMeasure(primaryLengthUnit = "meters",
              secondaryLengthUnit = "kilometers",
              primaryAreaUnit = "hectares",
@@ -32,6 +56,8 @@ leaflet() %>%
   addStyleEditor
 
 ```
+\
+\
 
 ## **Animación NDVI África**
 
@@ -45,9 +71,11 @@ leaflet() %>%
 \
 \
 
-## **Serie de tiempo NDVI para diferentes coberturas** 
+## **Serie de tiempo NDVI para diferentes coberturas**
 
 ![](images/NDVI_ts.png)
+\
+\
 
 ## **Índice NDVI con diferentes paletas de colores**
 
@@ -58,3 +86,9 @@ leaflet() %>%
 ## **Mapa Parque Nacional Conguillío**
 
 ![](images/mapa_final.png)
+\
+\
+
+## **Cambio de la superficie de distintas clases de uso y cobertura de suelo**
+
+![](images/plot_lulc.png)
