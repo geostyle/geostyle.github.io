@@ -84,7 +84,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## [Introduction to GIS and Remote Sensing with R](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
 
-[![]![](images/logo-04.png){width="318"}](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
+[![](images/logo-04.png){width="318"}](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
 
 **What you will learn:**
 
