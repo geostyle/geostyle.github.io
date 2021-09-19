@@ -79,3 +79,19 @@ knitr::opts_chunk$set(echo = TRUE)
 -   **Manejo del software de programación R**
 
 -   **Funciones avanzadas con Tidyverse**
+
+# Online Courses (in english)
+
+## [Introduction to GIS and Remote Sensing with R](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
+
+[![]![](images/logo-04.png){width="318"}](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
+
+**What you will learn:**
+
+-   **Spatial analysis**
+
+-   **Raster processing**
+
+-   **Vector processing**
+
+
