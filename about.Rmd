@@ -33,3 +33,36 @@ title: ""
 **Perfil LinkedIn:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
 
 **Perfil Researchgate:** <https://www.researchgate.net/profile/Andres-Salazar-14>
+
+
+# English
+
+\
+
+***GeoStyle*** **is an environmental consulting company from Chile, which offers private consulting of various types and online courses/trainings..**
+
+**The main areas of GeoStyle are:**
+
+-   **Remote sensing and GIS**
+-   **Programming**
+-   **Applied Ecology**
+-   **Machine Learning**
+
+**The main software and platforms we use to develop our work are: R, Google Earth Engine, QGIS, among others.**
+
+**As we use programming languages in most of our services, we perform processes in a fast and reproducible way.**
+
+\
+\
+
+***GeoStyle Founder:***
+
+![](images/1581604252963.jfif){width="236"}
+
+**Andrés Salazar, Master in Natural Resources and Agronomist Engineer. Both degrees studied at the Pontificia Universidad Católica de Chile. Main topics of interest: Landscape ecology, Species Distribution Modeling (SDM), land use and land cover change, Machine Learning predictive models, among others.**
+
+**Mail:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
+
+**LinkedIn profile:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
+
+**Researchgate profile:** <https://www.researchgate.net/profile/Andres-Salazar-14>
