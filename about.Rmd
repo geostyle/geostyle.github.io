@@ -15,10 +15,6 @@ title: ""
 -   **Ecología aplicada**
 -   **Machine Learning**
 
-**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
-
-**Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible.**
-
 \
 \
 
@@ -26,7 +22,7 @@ title: ""
 
 ![](images/1581604252963.jfif){width="236"}
 
-**Andrés Salazar, Magíster en Recursos Naturales e Ingeniero Agrónomo. Ambos grados estudiados en la Pontificia Universidad Católica de Chile. Principales temas de interés: Ecología del paisaje, Modelos de Distribución de Especies (SDM), Cambio de uso y cobertura de suelo, modelos predictivos de Machine Learning, entre otros**
+**Andrés Salazar, Magíster en Recursos Naturales e Ingeniero Agrónomo. Ambos grados estudiados en la Pontificia Universidad Católica de Chile. Principales temas de interés: Ecología del paisaje, Modelos de Distribución de Especies (SDM), Cambio de uso y cobertura de suelo, modelos predictivos de Machine Learning, entre otros. Actualmente realiza investigaciones y consultorías en el área de los recursos naturales. Ha colaborado en proyectos en Brasil, Perú, México, la Patagonia chilena, la zona central de Chile, entre otros.**
 
 **Mail contacto:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
 
@@ -59,7 +55,7 @@ title: ""
 
 ![](images/1581604252963.jfif){width="236"}
 
-**Andrés Salazar, Master in Natural Resources and Agronomist Engineer. Both degrees studied at the Pontificia Universidad Católica de Chile. Main topics of interest: Landscape ecology, Species Distribution Modeling (SDM), land use and land cover change, Machine Learning predictive models, among others.**
+**Andrés Salazar, Master in Natural Resources and Agronomist Engineer. Both degrees studied at the Pontificia Universidad Católica de Chile. Main topics of interest: Landscape ecology, Species Distribution Modeling (SDM), land use and land cover change, Machine Learning predictive models, among others. He is currently conducting research and consulting in the area of natural resources. He has collaborated in projects in Brazil, Peru, Mexico, Chilean Patagonia, central Chile, among others.**
 
 **Mail:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
 

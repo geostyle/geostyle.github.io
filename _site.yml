@@ -6,6 +6,9 @@ navbar:
     - text: " "
       href: index.html
       icon: fa-home
+    - text: "Consultorías"
+      href: consultorias.html
+      icon: fa-users
     - text: "Cursos"
       icon: fa-star
       menu: 
@@ -26,6 +29,5 @@ navbar:
       href: contacto.html
       icon: fa-envelope
 output:
-  rmdformats::downcute:
-    downcute_theme: "chaos"
+  rmdformats::downcute
     

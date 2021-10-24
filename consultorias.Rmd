@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Consultorías**
+
+\
+
+**Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. Recibimos clientes de todas partes del mundo, ya que gracias a las videollamadas, la distancia ya no es un problema. **
+
+\
+
+**Principales servicios ofrecidos:**
+
+**- Mapeo de cobertura y uso de suelo**
+
+**- Cálculo y análisis de múltiples índices espectrales**
+
+**- Modelos de Distribución de Especies (SDM)**
+
+**- Análisis de incendios forestales**
+
+**- Modelos de clasificación y de regresión mediante Machine Learning**
+
+**- Limpieza de datos y análisis estadístico de estos**
+
+**- Capacitaciones online**
+
+**- Entre otros (puedes consultar por un tema en particular)**
+
+\
+
+**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
+
+**Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
+
