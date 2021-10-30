@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***QGIS***, **entre otros.**
+**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***Python***, ***QGIS***, **entre otros.**
 
 **Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
 
