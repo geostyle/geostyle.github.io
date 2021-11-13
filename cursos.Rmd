@@ -30,7 +30,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   **Big Data Geoespacial**
 
--   **Manejo del software de programación R**
+-   **Manejo del lenguaje de programación R**
+
+-   **Procesamiento de archivos raster y archivos vectoriales**
+
+## [Introducción a SIG y Teledetección en Python](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29)
+
+[![](images/logo_curso.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29)
+
+**Qué aprenderás:**
+
+-   **Big Data Geoespacial**
+
+-   **Manejo del lenguaje de programación Python**
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
@@ -52,7 +64,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Qué aprenderás:**
 
--   **Manejo del software de programación R**
+-   **Manejo del lenguaje de programación R**
 
 -   **Realizar mapas profesionales para investigaciones, reportes y presentaciones con el paquete de gráficos avanzados "ggplot2"**
 
@@ -64,7 +76,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Qué aprenderás:**
 
--   **Manejo del software de programación R**
+-   **Manejo del lenguaje de programación R**
 
 -   **Big Data Geoespacial**
 
@@ -76,7 +88,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Qué aprenderás:**
 
--   **Manejo del software de programación R**
+-   **Manejo del lenguaje de programación R**
 
 -   **Funciones avanzadas con Tidyverse**
 
@@ -93,5 +105,3 @@ knitr::opts_chunk$set(echo = TRUE)
 -   **Raster processing**
 
 -   **Vector processing**
-
-
