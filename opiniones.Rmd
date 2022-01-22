@@ -4,11 +4,15 @@ title: ""
 
 # **Opiniones de los cursos**
 
-\
+![](images/2-01.png)
+
+![](images/3-02.png)
+
+![](images/4-01.png)
+
+![](images/1-01.png)
 
 ![](images/3-01.png)
-
-![](images/8.png)
 
 ![](images/2.png)
 
@@ -21,9 +25,3 @@ title: ""
 ![](images/6.png)
 
 ![](images/7.png)
-
-![](images/chicho%202.png)
-
-![](images/miguel2.png)
-
-
