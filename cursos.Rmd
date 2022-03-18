@@ -8,7 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Cursos Online (Asincrónicos)**
 
-**Para conocer más detalles y para inscribirte en los cursos, da click en su nombre**
+Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. El precio de estos cursos es accesible para la mayoría de los interesados.
+
+**Para conocer más detalles sobre los contenidos y para inscribirte en los cursos, da click en su nombre**
 
 ## [Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 

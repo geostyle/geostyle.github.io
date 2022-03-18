@@ -17,15 +17,15 @@ title: ""
 ```{r, echo=FALSE, warning=F, message=F}
 pacman::p_load(tidyverse,leaflet, leaflet.extras, sf, raster)
 
-congui <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\conguillio\\conguillio.shp")
+congui <- read_sf("C:/ANDRES/SIG/Capas/Vectores/Parques Nacionales/conguillio/conguillio.shp")
 
-araucania <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\araucania\\araucania.shp") %>% 
+araucania <- read_sf("C:/ANDRES/SIG/Capas/Vectores/Parques Nacionales/araucania/araucania.shp") %>% 
   st_transform(crs = 4326)
 
-nahuelbuta <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\nahuelbuta\\nahuelbuta.shp") %>% 
+nahuelbuta <- read_sf("C:/ANDRES/SIG/Capas/Vectores/Parques Nacionales/nahuelbuta/nahuelbuta.shp") %>% 
   st_transform(crs = 4326)
 
-huerquehue <- read_sf("D:\\ANDRÉS\\Mis cursos\\mapas_r\\archivos_curso\\leaflet\\huerquehue\\huerquehue.shp") %>% 
+huerquehue <- read_sf("C:/ANDRES/SIG/Capas/Vectores/Parques Nacionales/huerquehue/huerquehue.shp") %>% 
   st_transform(crs = 4326)
 
 cent_ara <- araucania[1,1] %>% st_centroid
