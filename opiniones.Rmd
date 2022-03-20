@@ -26,5 +26,12 @@ title: ""
 
 ![](images/7.png)
 
+\
 
 [**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
+
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>

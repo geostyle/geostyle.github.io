@@ -14,3 +14,8 @@ title: ""
 
 [**Canal YouTube**](https://www.youtube.com/channel/UC3Hepnp1iAuiELS5kDGrReQ) 
 
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>

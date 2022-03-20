@@ -10,11 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. Recibimos clientes de todas partes del mundo, ya que gracias a las videollamadas, la distancia ya no es un problema. **
+**Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. **
 
-\
+**Recibimos clientes de todas partes del mundo, ya que gracias a las videollamadas, la distancia ya no es un problema.**
 
-**Principales servicios ofrecidos:**
+
+## **Principales servicios ofrecidos:**
 
 **- Mapeo de cobertura y uso de suelo**
 
@@ -32,9 +33,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- Entre otros (puedes consultar por un tema en particular)**
 
-\
 
-**Los principales softwares y plataformas que utilizamos para desarrollar nuestro trabajo son:** ***R***, ***Google Earth Engine***, ***Python***, ***QGIS***, **entre otros.**
+## **Softwares/Plataformas utilizados**
+
+**- R**
+
+**- Google Earth Engine**
+
+**- Python**
+
+**- QGIS**
+
+\
 
 **Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
 
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>

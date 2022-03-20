@@ -62,3 +62,9 @@ title: ""
 **LinkedIn profile:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
 
 **Researchgate profile:** <https://www.researchgate.net/profile/Andres-Salazar-14>
+
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>

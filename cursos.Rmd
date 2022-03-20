@@ -115,3 +115,9 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 -   **Raster processing**
 
 -   **Vector processing**
+
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>

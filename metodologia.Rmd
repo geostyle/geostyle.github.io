@@ -25,4 +25,13 @@ knitr::opts_chunk$set(echo = TRUE)
 - **Los cursos se complementan muy bien entre ellos, entonces lo que aprendas en un curso puedes juntarlo con lo que aprendiste en otro y así realizar procedimientos más poderosos.** 
 
 
+\
+
 [**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
+
+
+\
+
+<center>
+![](images/logo_final.png){width="100"}
+</center>
