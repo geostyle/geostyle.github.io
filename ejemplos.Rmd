@@ -92,3 +92,6 @@ leaflet() %>%
 ## **Cambio de la superficie de distintas clases de uso y cobertura de suelo**
 
 ![](images/plot_lulc.png)
+
+
+[**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
