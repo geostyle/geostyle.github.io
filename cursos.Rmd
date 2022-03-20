@@ -10,13 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. El precio de estos cursos es accesible para la mayoría de los interesados. 
 
-\
-
 - [**Ejemplos de lo que aprenderás en los cursos**](https://geostyle.github.io/ejemplos.html)
 
-- [**Más detalles de la metodología de los cursos**](https://geostyle.github.io/metodologia.html)
-
 - [**Opiniones de de los cursos**](https://geostyle.github.io/opiniones.html)
+
+- [**Más detalles de la metodología de los cursos**](https://geostyle.github.io/metodologia.html)
 
 \
 
