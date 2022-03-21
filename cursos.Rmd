@@ -12,11 +12,9 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 - [**Ejemplos de lo que aprenderás en los cursos**](https://geostyle.github.io/ejemplos.html)
 
-- [**Opiniones de de los cursos**](https://geostyle.github.io/opiniones.html)
+- [**Opiniones de los cursos**](https://geostyle.github.io/opiniones.html)
 
 - [**Más detalles de la metodología de los cursos**](https://geostyle.github.io/metodologia.html)
-
-\
 
 **Para conocer más detalles sobre los contenidos y para inscribirte en los cursos, da click en su nombre**
 
