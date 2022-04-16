@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+**Para más información, haz click <a href =  "https://mapandres.github.io/curso_gee/" target = "_blank" rel = "noopener noreferrer"> aquí </a>**
+
 ![](images/curso en vivo GEE.gif){width="581"}
 
 \

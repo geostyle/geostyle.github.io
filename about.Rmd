@@ -26,9 +26,9 @@ title: ""
 
 **Mail contacto:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
 
-**Perfil LinkedIn:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
+<a href = "https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/" target = "_blank" rel = "noopener noreferrer"> **Perfil LinkedIn** </a>
 
-**Perfil Researchgate:** <https://www.researchgate.net/profile/Andres-Salazar-14>
+<a href = "https://www.researchgate.net/profile/Andres-Salazar-14" target = "_blank" rel = "noopener noreferrer"> **Perfil Researchgate** </a>
 
 
 # English
@@ -59,9 +59,9 @@ title: ""
 
 **Mail:** [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email}
 
-**LinkedIn profile:** <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
+<a href = "https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/" target = "_blank" rel = "noopener noreferrer"> **LinkedIn profile** </a>
 
-**Researchgate profile:** <https://www.researchgate.net/profile/Andres-Salazar-14>
+<a href = "https://www.researchgate.net/profile/Andres-Salazar-14" target = "_blank" rel = "noopener noreferrer"> **Researchgate profile** </a>
 
 \
 
