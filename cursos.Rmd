@@ -10,15 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. El precio de estos cursos es accesible para la mayoría de los interesados. 
 
-- [**Ejemplos de lo que aprenderás en los cursos**](https://geostyle.github.io/ejemplos.html)
+## <a href =  "https://geostyle.github.io/ejemplos.html" target = "_blank" rel = "noopener noreferrer"> **Ejemplos de lo que aprenderás en los cursos** </a>
 
-- [**Opiniones de los cursos**](https://geostyle.github.io/opiniones.html)
+## <a href =  "https://geostyle.github.io/opiniones.html" target = "_blank" rel = "noopener noreferrer"> **Opiniones de los cursos** </a>
 
-- [**Más detalles de la metodología de los cursos**](https://geostyle.github.io/metodologia.html)
+## <a href =  "https://geostyle.github.io/metodologia.html" target = "_blank" rel = "noopener noreferrer"> **Más detalles de la metodología de los cursos** </a>
 
 **Para conocer más detalles sobre los contenidos y para inscribirte en los cursos, da click en su nombre**
 
-## [Introducción a SIG y Teledetección en R](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
+## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en R </a>
 
 [![](images/logo-01.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
 
@@ -30,7 +30,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento y análisis de archivos Raster**
 
-## [Google Earth Engine y Machine Learning](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
+## <a href =  "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> Google Earth Engine y Machine Learning </a>
 
 [![](images/logo.png){width="318"}](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
 
@@ -44,7 +44,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Realizar clasificaciones supervisadas y no supervisadas con algoritmos de Machine Learning**
 
-## [Introducción a SIG y Teledetección en Python](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29)
+## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en Python </a>
 
 [![](images/logo_curso.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29)
 
@@ -56,7 +56,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento y análisis de archivos Raster**
 
-## [SIG y Teledetección en R (Intermedio)](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
+## <a href =  "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> SIG y Teledetección en R (Intermedio) </a>
 
 [![](images/logo-03.png){width="318"}](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
 
@@ -68,7 +68,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
-## [Mapas Web y Mapas Temáticos con R](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+## <a href =  "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> Mapas Web y Mapas Temáticos con R </a>
 
 [![](images/logo4.png){width="318"}](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
 
@@ -80,7 +80,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Realizar mapas web interactivos con el paquete "leaflet"**
 
-## [Introducción a Ecología del Paisaje en R](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
+## <a href =  "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> Introducción a Ecología del Paisaje en R </a>
 
 [![](images/logo-02.png){width="318"}](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
 
@@ -92,7 +92,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Cálculo de métricas de paisaje e índices de conectividad**
 
-## [Introducción a la Programación en R para Principiantes](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
+## <a href =  "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> Introducción a la Programación en R para Principiantes </a>
 
 [![](images/r2.png){width="318"}](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
 
@@ -104,7 +104,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 # Online Courses (in english)
 
-## [Introduction to GIS and Remote Sensing with R](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
+## <a href =  "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> Introduction to GIS and Remote Sensing with R </a>
 
 [![](images/logo-04.png){width="318"}](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
 

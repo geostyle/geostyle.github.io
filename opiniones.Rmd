@@ -30,7 +30,6 @@ title: ""
 
 [**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
 
-<a href =  "https://geostyle.github.io/cursos.html" target = "_blank"> **Catálogo de los cursos** </a>
 
 \
 
