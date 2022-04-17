@@ -20,7 +20,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en R </a>
 
-[![](images/logo-01.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A)
+<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-01.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -32,7 +32,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> Google Earth Engine y Machine Learning </a>
 
-[![](images/logo.png){width="318"}](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2)
+<a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -46,7 +46,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en Python </a>
 
-[![](images/logo_curso.png){width="318"}](https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29)
+<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo_curso.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -58,7 +58,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> SIG y Teledetección en R (Intermedio) </a>
 
-[![](images/logo-03.png){width="318"}](https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014)
+<a href = "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-03.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -70,7 +70,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> Mapas Web y Mapas Temáticos con R </a>
 
-[![](images/logo4.png){width="318"}](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC)
+<a href = "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo4.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -82,7 +82,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> Introducción a Ecología del Paisaje en R </a>
 
-[![](images/logo-02.png){width="318"}](https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397)
+<a href = "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-02.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -94,7 +94,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> Introducción a la Programación en R para Principiantes </a>
 
-[![](images/r2.png){width="318"}](https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2)
+<a href = "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> <img src = "images/r2.png" width = "318"> </a>
 
 **Qué aprenderás:**
 
@@ -106,7 +106,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> Introduction to GIS and Remote Sensing with R </a>
 
-[![](images/logo-04.png){width="318"}](https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78)
+<a href = "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-04.png" width = "318"> </a>
 
 **What you will learn:**
 
