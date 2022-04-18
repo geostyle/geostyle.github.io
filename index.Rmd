@@ -13,6 +13,6 @@ title: ""
 
 **BIENVENIDOS !**
 
-\
+<hr>
 
 ![NDVI año 2019 Región Metropolitana, Chile](images/ndvi_rm.gif)

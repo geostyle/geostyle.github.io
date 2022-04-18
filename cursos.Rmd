@@ -18,6 +18,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 **Para conocer más detalles sobre los contenidos y para inscribirte en los cursos, da click en su nombre**
 
+<hr>
+
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en R </a>
 
 <a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-01.png" width = "318"> </a>
@@ -29,7 +31,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 -   **Procesamiento y análisis de archivos Shapefile**
 
 -   **Procesamiento y análisis de archivos Raster**
-
+<hr>
 ## <a href =  "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> Google Earth Engine y Machine Learning </a>
 
 <a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo.png" width = "318"> </a>
@@ -44,6 +46,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Realizar clasificaciones supervisadas y no supervisadas con algoritmos de Machine Learning**
 
+<hr>
+
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en Python </a>
 
 <a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo_curso.png" width = "318"> </a>
@@ -55,6 +59,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 -   **Procesamiento y análisis de archivos Shapefile**
 
 -   **Procesamiento y análisis de archivos Raster**
+
+<hr>
 
 ## <a href =  "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> SIG y Teledetección en R (Intermedio) </a>
 
@@ -68,6 +74,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
+<hr>
+
 ## <a href =  "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> Mapas Web y Mapas Temáticos con R </a>
 
 <a href = "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo4.png" width = "318"> </a>
@@ -79,6 +87,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 -   **Realizar mapas para reportes con el paquete "ggplot2"**
 
 -   **Realizar mapas web interactivos con el paquete "leaflet"**
+
+<hr>
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> Introducción a Ecología del Paisaje en R </a>
 
@@ -92,6 +102,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Cálculo de métricas de paisaje e índices de conectividad**
 
+<hr>
+
 ## <a href =  "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> Introducción a la Programación en R para Principiantes </a>
 
 <a href = "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> <img src = "images/r2.png" width = "318"> </a>
@@ -101,6 +113,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 -   **Introducción a la programación en R**
 
 -   **Funciones avanzadas con Tidyverse para el manejo de grandes cantidades de datos**
+
+<hr>
 
 # Online Courses (in english)
 

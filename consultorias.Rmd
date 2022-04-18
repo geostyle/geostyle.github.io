@@ -8,12 +8,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Consultorías**
 
-\
-
 **Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. **
 
 **Recibimos clientes de todas partes del mundo, ya que gracias a las videollamadas, la distancia ya no es un problema.**
 
+<hr>
 
 ## **Principales servicios ofrecidos:**
 
@@ -33,6 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- Entre otros (puedes consultar por un tema en particular)**
 
+<hr>
 
 ## **Softwares/Plataformas utilizados**
 
@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- QGIS**
 
-\
+<hr>
 
 **Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
 
