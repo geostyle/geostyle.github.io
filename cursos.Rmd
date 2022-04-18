@@ -32,6 +32,7 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento y análisis de archivos Raster**
 <hr>
+
 ## <a href =  "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> Google Earth Engine y Machine Learning </a>
 
 <a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo.png" width = "318"> </a>
