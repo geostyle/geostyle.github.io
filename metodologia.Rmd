@@ -6,6 +6,9 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<title> GeoStyle </title>
+
+
 # **Metodología de los cursos**
 
 \

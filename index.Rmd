@@ -1,8 +1,9 @@
 ---
 title: ""
 ---
-
---metadata title="GeoStyle"
+<head>
+  <title> GeoStyle </title>
+</head>
 
 # **GeoStyle - Consultora Ambiental**
 
