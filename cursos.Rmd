@@ -1,9 +1,13 @@
 ---
 title: ""
+output:
+  html_document:
+    css: "C:\\R\\geostyle.github.io\\style.css"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 # **Cursos Online (Asincrónicos)**
@@ -22,7 +26,8 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en R </a>
 
-<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-01.png" width = "318"> </a>
+<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img src = "images/logo-01.png" width = "318" id = "holi"> </a> 
+
 
 **Qué aprenderás:**
 
