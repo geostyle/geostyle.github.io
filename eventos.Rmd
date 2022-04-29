@@ -18,19 +18,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Para más información, haz click** <a href =  "https://mapandres.github.io/curso_espacial/" target = "_blank" rel = "noopener noreferrer"> aquí </a>
 
-![](images/curso_ae_r.gif){width="581"}
-
 \
+![](images/curso_ae_r-01.gif){width="581"}
 
 ## **Anteriores**
 
 \
 
-![](images/curso%20en%20vivo%20GEE.gif){width="581"}
+![](images/charla_eco_pai.jpeg){width="581"}
 
 \
 
-![](images/charla_eco_pai.jpeg){width="581"}
+![](images/curso%20en%20vivo%20GEE.gif){width="581"}
 
 \
 
