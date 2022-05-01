@@ -5,7 +5,11 @@ title: ""
   <title> GeoStyle </title>
 </head>
 
-# **GeoStyle - Consultora Ambiental**
+# **GeoStyle**
+
+<p style="font-size: 30px; color: #000000; font-weight: bold">Consultora Ambiental / Environmental Consultant</p>
+
+
 
   
 \
@@ -14,8 +18,8 @@ title: ""
 
 \
 
-**BIENVENIDOS !**
+**BIENVENIDOS! / WELCOME!**
 
 <hr>
 
-![NDVI año 2019 Región Metropolitana, Chile](images/ndvi_rm.gif)
+![](images/ndvi_rm.gif)

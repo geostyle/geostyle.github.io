@@ -6,7 +6,9 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Consultorías**
+# **Consultorías/Consultancies**
+
+# ***Español***
 
 **Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. **
 
@@ -47,6 +49,50 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr>
 
 **Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
+
+\
+
+# ***English***
+
+**We provide consulting services in the area of natural resources, specifically in Remote Sensing, Geographic Information Systems, Landscape Ecology, among others. **
+
+**We receive clients from all over the world, because thanks to video calls, distance is no longer a problem.**
+
+<hr>
+
+## **Main services offered:**
+
+**- Land cover and land use mapping**
+
+**- Calculation and analysis of multiple spectral indices**
+
+**- Species Distribution Modeling (SDM)**
+
+**- Forest fire analysis**
+
+**- Classification and regression models through Machine Learning**
+
+**- Data cleaning and statistical analysis**
+
+**- Online trainings**
+
+**- Among others (you can ask for a particular topic)**
+
+<hr>
+
+## **Softwares/Platforms used**
+
+**- R**
+
+**- Google Earth Engine**
+
+**- Python**
+
+**- QGIS**
+
+<hr>
+
+**As we use programming languages in most of our services, we perform processes in a fast and reproducible way. In addition, we share the scripts in order, so that you can replicate the procedure performed. **
 
 \
 
