@@ -6,13 +6,15 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Eventos**
+# **Eventos / Events**
 
 **Acá se publican los eventos que serán realizados (cursos en vivo, charlas, entre otros)**
 
+***Here we publish the events that will be held (live courses, lectures, among others).***
+
 \
 
-## **Próximos**
+## **Próximos / Upcoming**
 
 \
 
@@ -21,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 \
 ![](images/curso_ae_r-01.gif){width="581"}
 
-## **Anteriores**
+## **Anteriores / Previous**
 
 \
 

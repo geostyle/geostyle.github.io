@@ -2,7 +2,9 @@
 title: ""
 ---
 
-# **Sobre GeoStyle**
+# **Sobre GeoStyle / About GeoStyle**
+
+# ***Español***
 
 \
 
@@ -31,7 +33,7 @@ title: ""
 <a href = "https://www.researchgate.net/profile/Andres-Salazar-14" target = "_blank" rel = "noopener noreferrer"> **Perfil Researchgate** </a>
 
 
-# English
+# ***English***
 
 \
 

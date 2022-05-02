@@ -2,17 +2,19 @@
 title: ""
 ---
 
-# **Contacto**
+# **Contacto / Contact**
 
 \
 
 **Para consultorías, colaboraciones o resolver dudas, puedes escribir al siguiente mail:**
 
-**Mail contacto: ajsalazar@uc.cl**
+***For consulting, collaborations or questions, you can write to the following email:***
 
-<a href = "https://www.linkedin.com/company/geostyle/" target = "_blank" rel = "noopener noreferrer"> **Página Linkedin** </a>
+**Mail: ajsalazar@uc.cl**
 
-<a href = "https://www.youtube.com/channel/UC3Hepnp1iAuiELS5kDGrReQ" target = "_blank" rel = "noopener noreferrer"> **Canal YouTube** </a>
+<a href = "https://www.linkedin.com/company/geostyle/" target = "_blank" rel = "noopener noreferrer"> **Linkedin** </a>
+
+<a href = "https://www.youtube.com/channel/UC3Hepnp1iAuiELS5kDGrReQ" target = "_blank" rel = "noopener noreferrer"> **YouTube** </a>
 
 \
 
