@@ -1,8 +1,5 @@
 ---
 title: ""
-output:
-  html_document:
-    css: "C:\\R\\geostyle.github.io\\style.css"
 ---
 
 ```{r setup, include=FALSE}
