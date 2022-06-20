@@ -18,16 +18,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-**Para más información, haz click** <a href =  "https://mapandres.github.io/curso_espacial/" target = "_blank" rel = "noopener noreferrer"> aquí </a>
+En este momento no hay nuevos eventos programados.
 
 \
-![](images/curso_ae_r-01.gif){width="581"}
+
 
 ## **Anteriores / Previous**
 
 \
 
 ![](images/charla_eco_pai.jpeg){width="581"}
+
+\
+
+![](images/curso_ae_r-01.gif){width="581"}
 
 \
 
