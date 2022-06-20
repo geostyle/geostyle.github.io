@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Cursos Online (Asincrónicos)**
 
-Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos es 19.99 USD**
+Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos es 19,99 USD**
 
 **Más de 3.000 personas ya se han inscrito a los cursos.** Qué estás esperando para inscribirte!
 
