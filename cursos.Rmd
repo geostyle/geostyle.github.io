@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos es 19.99 USD**
 
+**Más de 3.000 personas ya se han inscrito a los cursos.** Qué estás esperando para inscribirte!
+
 <a href =  "https://geostyle.github.io/ejemplos.html" target = "_blank" rel = "noopener noreferrer"> **Ejemplos de lo que aprenderás en los cursos** </a>
 
 <a href =  "https://geostyle.github.io/opiniones.html" target = "_blank" rel = "noopener noreferrer"> **Opiniones de los cursos** </a>
