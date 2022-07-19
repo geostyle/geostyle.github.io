@@ -10,29 +10,48 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # ***Español***
 
-**Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Ecología del Paisaje, entre otros. **
+**Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Estadística, Ecología del Paisaje, entre otros. **
 
-**Recibimos clientes de todas partes del mundo, ya que gracias a las videollamadas, la distancia ya no es un problema.**
+**Recibimos clientes de todas partes del mundo, ya que nos gusta colaborar y aprender de diferentes culturas y realidades. Además, manejamos el idioma español e inglés. **
 
 <hr>
 
 ## **Principales servicios ofrecidos:**
 
+
+### **1) Teledetección:**
+
 **- Mapeo de cobertura y uso de suelo**
 
 **- Cálculo y análisis de múltiples índices espectrales**
 
+**- Análisis de incendios forestales**
+
 **- Modelos de Distribución de Especies (SDM)**
 
-**- Análisis de incendios forestales**
+\
+
+### **2) Estadística:**
+
+**- Estadística inferencial**
+
+**- Geostadística**
+
+**- Clustering**
+
+**- Modelos estadísticos (Regresión lineal, GLM, entre otros)**
 
 **- Modelos de clasificación y de regresión mediante Machine Learning**
 
-**- Limpieza de datos y análisis estadístico de estos**
+\
 
-**- Capacitaciones online**
+### **3) Capacitaciones online:**
 
-**- Entre otros (puedes consultar por un tema en particular)**
+**- Personales o grupales**
+
+\
+
+*Puedes consultar por un tema en particular
 
 <hr>
 
@@ -54,29 +73,49 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # ***English***
 
-**We provide consulting services in the area of natural resources, specifically in Remote Sensing, Geographic Information Systems, Landscape Ecology, among others. **
+**We provide consulting services in the area of natural resources, specifically in Remote Sensing, Geographic Information Systems, Statistics, Landscape Ecology, among others. **
 
-**We receive clients from all over the world, because thanks to video calls, distance is no longer a problem.**
+**We receive clients from all over the world, since we like to collaborate and learn from different cultures and realities. In addition, we are fluent in Spanish and English. **
 
 <hr>
 
 ## **Main services offered:**
 
+### **1) Remote Sensing:**
+
 **- Land cover and land use mapping**
 
 **- Calculation and analysis of multiple spectral indices**
 
+**- Wildfire analysis**
+
 **- Species Distribution Modeling (SDM)**
 
-**- Forest fire analysis**
+\
 
-**- Classification and regression models through Machine Learning**
+### **2) Statistics:**
 
-**- Data cleaning and statistical analysis**
+**- Inferential statistics**
 
-**- Online trainings**
+**- Geostatistics**
 
-**- Among others (you can ask for a particular topic)**
+**- Clustering**
+
+**- Statistical models (Linear regression, GLM, among others)**
+
+**- Classification and regression models by Machine Learning**
+
+\
+
+### **3) Online trainings:**
+
+**- Personal or group**
+
+\
+
+
+*You can ask about a particular topic.
+
 
 <hr>
 
