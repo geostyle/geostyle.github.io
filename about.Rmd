@@ -12,10 +12,14 @@ title: ""
 
 **Las principales áreas de GeoStyle son:**
 
--   **Teledetección y SIG**
--   **Programación**
--   **Ecología aplicada**
--   **Machine Learning**
+-   **Teledetección**
+-   **SIG**
+-   **Ecología del paisaje**
+-   **Estadística**
+
+**Los principales programas y plataformas que utilizamos para desarrollar nuestro trabajo son: R, Google Earth Engine, Python, QGIS, entre otros.**
+
+**Como utilizamos lenguajes de programación en la mayoría de nuestros servicios, realizamos procesos de forma rápida y reproducible.**
 
 \
 \
@@ -41,12 +45,12 @@ title: ""
 
 **The main areas of GeoStyle are:**
 
--   **Remote sensing and GIS**
--   **Programming**
--   **Applied Ecology**
--   **Machine Learning**
+-   **Remote sensing**
+-   **GIS**
+-   **Landscape Ecology**
+-   **Statistics**
 
-**The main software and platforms we use to develop our work are: R, Google Earth Engine, QGIS, among others.**
+**The main software and platforms we use to develop our work are: R, Google Earth Engine, Python, QGIS, among others.**
 
 **As we use programming languages in most of our services, we perform processes in a fast and reproducible way.**
 
