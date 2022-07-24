@@ -51,6 +51,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+### **4) Otros:**
+
+**- Traducción de artículos científicos al inglés**
+
+\
+
 *Puedes consultar por un tema en particular
 
 <hr>
