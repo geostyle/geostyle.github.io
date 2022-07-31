@@ -9,8 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **Próximo evento / Next event:**
 
 \
-
-![](images/curso_GEE_agosto_2022.png){width="581"}
+![](images/curso_GEE_agosto_2022-01.png){width="581"}
 
 ## ¿Qué obtengo al inscribirme?
 
