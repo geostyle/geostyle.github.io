@@ -21,8 +21,12 @@ navbar:
         - text: "Opiniones"
           href: opiniones.html
     - text: "Eventos"
-      href: eventos.html
       icon: fa-exclamation-circle
+      menu:
+       - text: "Próximos"
+         href: proximos.html
+       - text: "Anteriores"
+         href: eventos.html
     - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"

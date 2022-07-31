@@ -6,24 +6,7 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Eventos / Events**
-
-**Acá se publican los eventos que serán realizados (cursos en vivo, charlas, entre otros)**
-
-***Here we publish the events that will be held (live courses, lectures, among others).***
-
-\
-
-## **Próximos / Upcoming**
-
-\
-
-En este momento no hay nuevos eventos programados.
-
-\
-
-
-## **Anteriores / Previous**
+## **Eventos anteriores / Previous events**
 
 \
 

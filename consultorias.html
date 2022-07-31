@@ -116,23 +116,26 @@
         <div class="Sidebar">
           <div class="SidebarItems" id="toc">
             <ul>
-            <li><a
-            href="#consultoríasconsultancies"><strong>Consultorías/Consultancies</strong></a></li>
-            <li><a href="#español"><strong><em>Español</em></strong></a>
+            <li><a href="#consultoríasconsultancies"
+            id="toc-consultoríasconsultancies"><strong>Consultorías/Consultancies</strong></a></li>
+            <li><a href="#español"
+            id="toc-español"><strong><em>Español</em></strong></a>
             <ul>
-            <li><a
-            href="#principales-servicios-ofrecidos"><strong>Principales
+            <li><a href="#principales-servicios-ofrecidos"
+            id="toc-principales-servicios-ofrecidos"><strong>Principales
             servicios ofrecidos:</strong></a></li>
-            <li><a
-            href="#softwaresplataformas-utilizados"><strong>Softwares/Plataformas
+            <li><a href="#softwaresplataformas-utilizados"
+            id="toc-softwaresplataformas-utilizados"><strong>Softwares/Plataformas
             utilizados</strong></a></li>
             </ul></li>
-            <li><a href="#english"><strong><em>English</em></strong></a>
+            <li><a href="#english"
+            id="toc-english"><strong><em>English</em></strong></a>
             <ul>
-            <li><a href="#main-services-offered"><strong>Main services
+            <li><a href="#main-services-offered"
+            id="toc-main-services-offered"><strong>Main services
             offered:</strong></a></li>
-            <li><a
-            href="#softwaresplatforms-used"><strong>Softwares/Platforms
+            <li><a href="#softwaresplatforms-used"
+            id="toc-softwaresplatforms-used"><strong>Softwares/Platforms
             used</strong></a></li>
             </ul></li>
             </ul>
@@ -193,12 +196,22 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="eventos.html">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           <span class="fa fa-exclamation-circle"></span>
            
           Eventos
+           
+          <span class="caret"></span>
         </a>
+        <ul class="dropdown-menu" role="menu">
+          <li>
+            <a href="proximos.html">Próximos</a>
+          </li>
+          <li>
+            <a href="eventos.html">Anteriores</a>
+          </li>
+        </ul>
       </li>
       <li>
         <a href="about.html">Sobre GeoStyle</a>

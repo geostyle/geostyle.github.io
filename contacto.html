@@ -116,7 +116,8 @@
         <div class="Sidebar">
           <div class="SidebarItems" id="toc">
             <ul>
-            <li><a href="#contacto-contact"><strong>Contacto /
+            <li><a href="#contacto-contact"
+            id="toc-contacto-contact"><strong>Contacto /
             Contact</strong></a></li>
             </ul>
           </div>
@@ -176,12 +177,22 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="eventos.html">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           <span class="fa fa-exclamation-circle"></span>
            
           Eventos
+           
+          <span class="caret"></span>
         </a>
+        <ul class="dropdown-menu" role="menu">
+          <li>
+            <a href="proximos.html">Próximos</a>
+          </li>
+          <li>
+            <a href="eventos.html">Anteriores</a>
+          </li>
+        </ul>
       </li>
       <li>
         <a href="about.html">Sobre GeoStyle</a>
