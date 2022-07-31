@@ -9,7 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **Próximo evento / Next event:**
 
 \
-![](images/curso_GEE_agosto_2022-01.png){width="581"}
+
+![](images/curso_GEE_agosto_2022-02.png){width="581"}
 
 ## ¿Qué obtengo al inscribirme?
 
@@ -110,9 +111,9 @@ Acá puedes ver algunos comentarios de personas que han realizado los cursos
 
 ## Cuál es el valor del curso?
 
--   [**Estudiantes y desempleados:**]{style="color:red"} **25.000 CLP (Extranjeros: 35 USD)**
+-   [**Estudiantes y desempleados:**]{style="color:red"} **20.000 CLP (Extranjeros: 30 USD)**
 
--   [**Público general:**]{style="color:red"} **35.000 CLP (Extranjeros: 45 USD)**
+-   [**Público general:**]{style="color:red"} **30.000 CLP (Extranjeros: 40 USD)**
 
 \
 
