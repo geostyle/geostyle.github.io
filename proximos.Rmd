@@ -12,17 +12,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/curso_GEE_agosto_2022-02.png){width="581"}
 
+\
+
+<a href = "https://youtu.be/AbnTMbMYHuU" target = "_blank" rel = "noopener noreferrer"> **VIDEO PROMOCIONAL** </a>
+
 ## ¿Qué obtengo al inscribirme?
 
 1)  [Acceso al curso online en vivo ***"Introducción a Google Earth Engine"***]{style="color:red"}, el cual consiste en 3 sesiones de 1 hora y 30 minutos cada una. Este es un curso teórico/práctico.
 
 \
 
-2)  [Acceso **GRATIS** al curso ***Google Earth Engine y Machine Learning***]{style="color:red"}, el cuál es un [curso asincrónico]{style="color:red"} (son videos grabados en la plataforma ***Udemy***). En este curso vas a poder practicar lo aprendido (más información click [acá](https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2))
+2)  [Acceso **GRATIS** al curso ***Google Earth Engine y Machine Learning***]{style="color:red"}, el cuál es un [curso asincrónico]{style="color:red"} (son videos grabados en la plataforma ***Udemy***). En este curso vas a poder practicar lo aprendido (más información click <a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> acá </a>)
 
 \
 
-3)  [Acceso **GRATIS** al curso ***Mapas Web y Mapas Temáticos con R: Leaflet y ggplot2***]{style="color:red"}, el cuál es un [curso asincrónico]{style="color:red"} (son videos grabados en la plataforma Udemy). En este curso vas a poder practicar lo aprendido (más información click [acá](https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC))
+3)  [Acceso **GRATIS** al curso ***Mapas Web y Mapas Temáticos con R: Leaflet y ggplot2***]{style="color:red"}, el cuál es un [curso asincrónico]{style="color:red"} (son videos grabados en la plataforma Udemy). En este curso vas a poder practicar lo aprendido (más información click <a href = "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> acá </a>)
 
 \
 
@@ -131,7 +135,7 @@ Acá puedes ver algunos comentarios de personas que han realizado los cursos
 
 No te preocupes, es un sistema súper seguro. Hemos recibido transferencias de dinero de muchos países y nunca hemos tenido problemas con PayPal. Sólo necesitas una tarjeta de crédito para vincularla con tu cuenta de PayPal.
 
-Si quieres más información de como funciona PayPal, haz click [acá](https://www.paypal.com/cl/webapps/mpp/what-is-paypal)
+Si quieres más información de como funciona PayPal, haz click <a href = "https://www.paypal.com/cl/webapps/mpp/what-is-paypal" target = "_blank" rel = "noopener noreferrer"> acá </a>
 
 \
 
@@ -187,9 +191,10 @@ Se realizará en ***Google Meet***
 
 Andrés Salazar, Ingeniero Agrónomo, Magíster en Recursos Naturales. Pontificia Universidad Católica de Chile
 
-Pefil Linkedin: <https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/>
+<a href = "https://www.linkedin.com/in/andr%C3%A9s-salazar-6213b6163/" target = "_blank" rel = "noopener noreferrer"> Pefil Linkedin </a>
 
-Perfil ResearchGate: <https://www.researchgate.net/profile/Andres-Salazar-14>
+<a href = "https://www.researchgate.net/profile/Andres-Salazar-14" target = "_blank" rel = "noopener noreferrer"> Perfil ResearchGate </a>
+
 
 \
 
