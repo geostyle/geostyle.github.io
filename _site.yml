@@ -28,7 +28,7 @@ navbar:
        - text: "Anteriores"
          href: eventos.html
     - text: "Apps"
-      icon: fa-exclamation-circle
+      icon: fa-rocket
       menu:
        - text: "SnowCovApp"
          href: snowcovapp.html
