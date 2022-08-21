@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="pandoc" />
+
+    
+    
+    <title>snowcovapp.knit</title>
+
+        <script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+        <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="site_libs/bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="site_libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+        <script src="site_libs/navigation-1.1/tabsets.js"></script>
+        <link href="site_libs/downcute-0.1/downcute.css" rel="stylesheet" />
+        <link href="site_libs/downcute-0.1/downcute_fonts_embed.css" rel="stylesheet" />
+        <script src="site_libs/downcute-0.1/downcute_styles.js"></script>
+        <script src="site_libs/downcute-0.1/downcute.js"></script>
+        <script src="site_libs/prism-1.22/prism.js"></script>
+        <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+        <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+    
+    
+    
+    
+    <!-- tabsets -->
+    <script>
+      $(document).ready(function () {
+	  window.buildTabsets("toc");
+      });
+      $(document).ready(function () {
+	  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+	      $(this).parent().toggleClass('nav-tabs-open')
+	  });
+      });
+    </script>
+
+    <!-- code folding -->
+    
+    <!-- code download -->
+    
+    <!-- tabsets dropdown -->
+
+    <style type="text/css">
+      .tabset-dropdown > .nav-tabs {
+	  display: inline-table;
+	  max-height: 500px;
+	  min-height: 44px;
+	  overflow-y: auto;
+	  background: white;
+	  border: 1px solid #ddd;
+	  border-radius: 4px;
+      }
+      
+      .tabset-dropdown > .nav-tabs > li.active:before {
+	  content: "";
+	  font-family: 'Glyphicons Halflings';
+	  display: inline-block;
+	  padding: 10px;
+	  border-right: 1px solid #ddd;
+      }
+      
+      .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+	  content: "&#xe258;";
+	  border: none;
+      }
+      
+      .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+	  content: "";
+	  font-family: 'Glyphicons Halflings';
+	  display: inline-block;
+	  padding: 10px;
+	  border-right: 1px solid #ddd;
+      }
+      
+      .tabset-dropdown > .nav-tabs > li.active {
+	  display: block;
+      }
+
+      .tabset-dropdown > .nav-tabs > li.active a {
+  	  padding: 0 15px !important;
+      }
+
+      .tabset-dropdown > .nav-tabs > li > a,
+      .tabset-dropdown > .nav-tabs > li > a:focus,
+      .tabset-dropdown > .nav-tabs > li > a:hover {
+	  border: none;
+	  display: inline-block;
+	  border-radius: 4px;
+	  background-color: transparent;
+      }
+      
+      .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+	  display: block;
+	  float: none;
+      }
+      
+      .tabset-dropdown > .nav-tabs > li {
+	  display: none;
+	  margin-left: 0 !important;
+      }
+    </style>
+    
+</head>
+
+<body class="preload">
+
+   	
+               <!-- downcute start -->   
+   <div id="docute" class="Root theme-default">
+     <div class="Page layout-narrow">
+      <div class="Wrap">
+        <div class="Sidebar">
+          <div class="SidebarItems" id="toc">
+            <ul>
+            <li><a href="#snowcovapp"
+            id="toc-snowcovapp"><strong><em>SnowCovApp</em></strong></a></li>
+            <li><a href="#español" id="toc-español">Español</a>
+            <ul>
+            <li><a href="#introducción-al-problema"
+            id="toc-introducción-al-problema">1) Introducción al
+            problema</a></li>
+            <li><a href="#introducción-a-snowcovapp"
+            id="toc-introducción-a-snowcovapp">2) Introducción a
+            <em>SnowCovApp</em></a></li>
+            <li><a href="#metodología" id="toc-metodología">3)
+            Metodología</a></li>
+            <li><a href="#región-de-interés-de-la-comunidad"
+            id="toc-región-de-interés-de-la-comunidad">4) Región de
+            interés de la comunidad</a></li>
+            <li><a href="#fortalezas-de-snowcovapp"
+            id="toc-fortalezas-de-snowcovapp">5) Fortalezas de
+            <em>SnowCovApp</em></a></li>
+            <li><a href="#limitaciones-de-snowcovapp"
+            id="toc-limitaciones-de-snowcovapp">6) Limitaciones de
+            <em>SnowCovApp</em></a></li>
+            <li><a href="#referencias" id="toc-referencias">7)
+            Referencias</a></li>
+            </ul></li>
+            <li><a href="#english" id="toc-english">English</a>
+            <ul>
+            <li><a href="#introduction-to-the-problem"
+            id="toc-introduction-to-the-problem">1) Introduction to the
+            problem</a></li>
+            <li><a href="#introduction-to-snowcovapp"
+            id="toc-introduction-to-snowcovapp">2) Introduction to
+            <em>SnowCovApp</em></a></li>
+            <li><a href="#methodology" id="toc-methodology">3)
+            Methodology</a></li>
+            <li><a href="#community-region-of-interest"
+            id="toc-community-region-of-interest">4) Community region of
+            interest</a></li>
+            <li><a href="#snowcovapp-strengths"
+            id="toc-snowcovapp-strengths">5) <em>SnowCovApp</em>
+            strengths</a></li>
+            <li><a href="#snowcovapp-limitations"
+            id="toc-snowcovapp-limitations">6) <em>SnowCovApp</em>
+            Limitations</a></li>
+            <li><a href="#references" id="toc-references">7)
+            References</a></li>
+            </ul></li>
+            </ul>
+          </div>
+          <div data-position="sidebar:post-end" class="InjectedComponents"><div class="dark-theme-toggler"><div class="toggle "><div class="toggle-track"><div class="toggle-track-check"><img  src="data:image/png;base64,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" role="presentation" style="pointer-events: none;" width="16" height="16"></div> <div class="toggle-track-x"><img src="data:image/png;base64,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" role="presentation" style="pointer-events: none;" width="16" height="16"></div></div> <div class="toggle-thumb"></div></div> <input type="checkbox" aria-label="Switch between Dark and Default theme" class="toggler-screen-reader-only"></div></div>
+        </div>
+        <div class="Main">
+          <div class="Content" id="content"> 
+   
+   
+      
+      <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">GeoStyle</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li>
+        <a href="index.html">
+          <span class="fa fa-home"></span>
+           
+           
+        </a>
+      </li>
+      <li>
+        <a href="consultorias.html">
+          <span class="fa fa-users"></span>
+           
+          Consultorías
+        </a>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="fa fa-star"></span>
+           
+          Cursos
+           
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li>
+            <a href="cursos.html">Catálogo</a>
+          </li>
+          <li>
+            <a href="ejemplos.html">Ejemplos</a>
+          </li>
+          <li>
+            <a href="metodologia.html">Metodología</a>
+          </li>
+          <li>
+            <a href="opiniones.html">Opiniones</a>
+          </li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="fa fa-exclamation-circle"></span>
+           
+          Eventos
+           
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li>
+            <a href="proximos.html">Próximos</a>
+          </li>
+          <li>
+            <a href="eventos.html">Anteriores</a>
+          </li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="fa fa-exclamation-circle"></span>
+           
+          Apps
+           
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+          <li>
+            <a href="snowcovapp.html">SnowCovApp</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="about.html">Sobre GeoStyle</a>
+      </li>
+      <li>
+        <a href="contacto.html">
+          <span class="fa fa-envelope"></span>
+           
+          Contacto
+        </a>
+      </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container -->
+      </div><!--/.navbar -->
+        
+      
+      <p class="authors">
+              
+
+   
+      
+   
+<!-- Don't indent these lines or it will mess pre blocks indentation --> 
+<div class="page-content has-page-title">
+<div id="snowcovapp" class="section level1">
+<h1><strong><em>SnowCovApp</em></strong></h1>
+<p><img src="images/scapp.png" width="269" /></p>
+<p><em>Version 1.0 (2022-08-21)</em></p>
+<p><em>Author: Andrés Salazar (<a href="mailto:ajsalazar@uc.cl"
+class="email">ajsalazar@uc.cl</a>)</em></p>
+<p>Click
+<a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" target = "_blank" rel = "noopener noreferrer">
+<strong>here</strong> </a> to access to <em>SnowCovApp</em></p>
+<p>(English description below)</p>
+</div>
+<div id="español" class="section level1">
+<h1>Español</h1>
+<div id="introducción-al-problema" class="section level2">
+<h2>1) Introducción al problema</h2>
+<p><strong>Más del 25% de la población mundial depende del deshielo de
+las montañas para el suministro de agua dulce</strong> (Mankin et al.,
+2015). <strong>Además, la nieve es una variable hidrológica esencial que
+afecta a la producción de escorrentía, la recarga de los manantiales y
+la disponibilidad de agua en los entornos de montaña</strong> (por
+ejemplo, Lucianetti et al., 2020; Penna et al., 2016).</p>
+<p><strong>Los procesos climáticos, hidrológicos y biogeoquímicos
+globales dependen en gran medida de la cobertura de nieve
+estacional</strong> (Takala et al., 2011). <strong>La gestión informada
+de los ecosistemas requiere comprender la extensión de la cubierta de
+nieve estacional, ya que influye en una serie de servicios de los
+ecosistemas, como el suministro de recursos hídricos, la disponibilidad
+de hábitat para las especies silvestres y el uso recreativo del paisaje
+por parte de los seres humanos.</strong></p>
+<p><strong>En un clima cambiante, el momento y la extensión de la
+cubierta de nieve estacional son inciertos, y la cartografía precisa de
+la cubierta de nieve es cada vez más importante para entender la
+dinámica de la nieve</strong> (Berman et al., 2018; Corbari et al.,
+2022).</p>
+<p><strong>El acceso a esta información es ahora más fácil que antes.
+Sin embargo, todavía necesitamos una plataforma más eficiente y fácil de
+usar para extraer esta información. El objetivo de</strong>
+<strong><em>SnowCovApp</em></strong> <strong>es cubrir este problema,
+siendo una plataforma online gratuita y fácil de usar.</strong></p>
+</div>
+<div id="introducción-a-snowcovapp" class="section level2">
+<h2>2) Introducción a <em>SnowCovApp</em></h2>
+<p><strong><em>SnowCovApp</em></strong> <strong>es una aplicación web
+construida en la plataforma</strong> <strong><em>Google Earth
+Engine</em></strong> <strong>combinando los lenguajes</strong>
+<strong><em>JavaScript</em></strong> <strong>y</strong>
+<strong><em>CSS.</em></strong> <strong><em>SnowCovApp</em></strong>
+<strong>genera datos diarios del área de cobertura de nieve (en
+hectáreas y porcentaje) con cobertura mundial.</strong></p>
+<p><strong>Esta aplicación utiliza el producto MODIS</strong>
+<strong><em>“MOD10A1 Terra Snow Cover Daily Global 500m”</em></strong>
+<strong>Este producto contiene datos diarios desde el 2000-02-24 hasta
+la fecha actual (con un retraso de aproximadamente 2
+semanas).</strong></p>
+</div>
+<div id="metodología" class="section level2">
+<h2>3) Metodología</h2>
+<p><strong>Utilizando el producto</strong>
+<strong><em>MOD10A1</em></strong> <strong>en la plataforma</strong>
+<strong><em>Google Earth Engine,</em></strong> <strong>se calculó el
+área de cobertura de nieve fraccionada (fSCA). Para ello, se aplicó la
+metodología de</strong> <strong><em>Rittger et al.</em></strong>
+<strong>(2012). Luego, los valores de fSCA se transformaron en área de
+cobertura de nieve binaria (bSCA). Para ello se estableció un umbral de
+0.5, lo que significa que si un píxel está cubierto por un 50% (o más)
+de nieve, se clasifica como nieve. Si no se cumple la condición
+anterior, se considera que no hay nieve. De este modo, se obtiene una
+clasificación binaria, con clases de nieve y no nieve. Después, para la
+zona de interés, se calcula la superficie cubierta de nieve (en
+hectáreas) y el porcentaje de la superficie de interés que está cubierta
+de nieve.</strong></p>
+</div>
+<div id="región-de-interés-de-la-comunidad" class="section level2">
+<h2>4) Región de interés de la comunidad</h2>
+<p><strong>Las personas que estén interesadas en estudiar una región
+determinada pueden enviar un shapefile de esta. Este shapefile se
+añadirá a la sección</strong> <strong><em>“choose a community
+ROI.”</em></strong> <strong>El shapefile debe enviarse por correo
+electrónico a <a href="mailto:ajsalazar@uc.cl"
+class="email">ajsalazar@uc.cl</a> con una breve descripción de la
+zona.</strong></p>
+</div>
+<div id="fortalezas-de-snowcovapp" class="section level2">
+<h2>5) Fortalezas de <em>SnowCovApp</em></h2>
+<ul>
+<li><p><strong>Velocidad de procesamiento: Como</strong>
+<strong><em>SnowCovApp</em></strong> <strong>fue creada usando</strong>
+<strong><em>Google Earth Engine,</em></strong> <strong>la potencia de
+esta plataforma (la cual funciona con los servidores de Google) es una
+gran ventaja en el procesamiento de estos datos.</strong></p></li>
+<li><p><strong>Amplia cobertura temporal: Los datos están disponibles
+desde 2000-02-24 a la fecha actual (con un retraso de dos semanas
+aproximadamente).</strong></p></li>
+<li><p><strong>Cobertura mundial:</strong>
+<strong><em>SnowCovApp</em></strong> <strong>puede ser usada
+prácticamente en cualquier lugar del mundo.</strong></p></li>
+<li><p><strong>Fácil uso: el manejo de esta aplicación es bastante
+simple, ya que básicamente consiste en dos pasos: selccionar el área de
+estudio y la fecha de interés.</strong></p></li>
+<li><p><strong>No hay necesidad de crear cuenta en</strong>
+<strong><em>Google Earth Engine:</em></strong> <strong>para
+usar</strong> <strong><em>SnowCovApp</em></strong> <strong>no es
+necesario tener una cuenta en Google Earth Engine, por lo que cualquier
+persona puede usarla.</strong></p></li>
+<li><p><strong>No es necesario descargar un software: esta aplicación
+funciona en la web, por lo que no es necesario descargar ningún
+software.</strong></p></li>
+<li><p><strong>Se pueden descargar los datos en formato CSV: la gran
+cantidad de datos generadas en</strong>
+<strong><em>SnowCovApp</em></strong> <strong>pueden ser descargados
+directamente en un archivo CSV.</strong></p></li>
+</ul>
+</div>
+<div id="limitaciones-de-snowcovapp" class="section level2">
+<h2>6) Limitaciones de <em>SnowCovApp</em></h2>
+<ul>
+<li><p><strong>Cobertura de nubes: como la mayoría de los usos de
+imágenes de satelite, la presencia de nubes es un problema. Estudios
+similares de cobertura de nieve, clasifican los datos contaminados con
+nubes como datos perdidos.</strong> <strong><em>SnowCovApp</em></strong>
+<strong>también tiene este problema, por lo que el valor real de SCA es
+una aproximación de la realidad. Futuros estudios se deben realizar para
+poder llenar los pixeles contaminados con nubes.</strong></p></li>
+<li><p><strong>Periodo de estudio: El producto utilizado (MOD10A1)
+contiene datos diarios desde el 2000-02-24 hasta la fecha actual (con un
+desfase de aproximadamente 2 semanas). En la sección</strong>
+<strong><em>“Study period charts: Daily SCA (hectares and
+percentage)”</em></strong> <strong>sólo se pueden descargar datos
+diarios de aproximadamente 13 años. Si desea descargar una serie
+temporal más larga, puede hacer la extracción en dos partes. Esto es
+debido a que</strong> <strong><em>Google Earth Engine</em></strong>
+<strong>tiene un límite en el procesamiento de estos
+datos.</strong></p></li>
+<li><p><strong>Tamaño del área de estudio: es probable que si se
+introduce un área de estudio muy grande (países completos por ejemplo)
+en</strong> <strong><em>SnowCovApp,</em></strong> <strong>algunos datos
+no puedan generarse. Específicamente, los gráficos
+complementarios</strong> <strong><em>(“Extra charts: Mean and maximum
+annual SCA”)</em></strong> <strong>podrían no generarse. Esto es debido
+a que esos gráficos analizan una gran cantidad de datos y</strong>
+<strong><em>Google Earth Engine</em></strong> <strong>tiene un límite en
+el procesamiento de estos datos.</strong></p></li>
+</ul>
+</div>
+<div id="referencias" class="section level2">
+<h2>7) Referencias</h2>
+<p>Aalstad, K., Westermann, S., &amp; Bertino, L. (2020). Evaluating
+satellite retrieved fractional snow-covered area at a high-Arctic site
+using terrestrial photography. Remote Sensing of Environment,
+239(December 2019), 111618. <a
+href="https://doi.org/10.1016/j.rse.2019.111618"
+class="uri">https://doi.org/10.1016/j.rse.2019.111618</a></p>
+<p>Berman, E.E., Bolton, D.K., Coops, N.C., Mityok, Z.K., Stenhouse,
+G.B., Moore, R.D., 2018. Daily estimates of Landsat fractional snow
+cover driven by MODIS and dynamic time-warping. Rem. Sens. Environ. 216,
+635–646.</p>
+<p>Corbari, C., Ravazzani, G., Perotto, A., Lanzingher, G., Lombardi,
+G., Quadrio, M., Mancini, M., Salerno, R., 2022. Weekly monitoring and
+forecasting of hydropower production coupling meteo-hydrological
+modeling with ground and satellite data in the Italian Alps. Hydrology 9
+(2), 29. <a href="https://doi.org/10.3390/hydrology9020029"
+class="uri">https://doi.org/10.3390/hydrology9020029</a>.</p>
+<p>Lucianetti, G., Penna, D., Mastrorillo, L., Mazza, R., 2020. The role
+of snowmelt on the spatio-temporal variability of spring recharge in a
+Dolomitic mountain group, Italian Alps. Water 12, 2256. <a
+href="https://doi.org/10.3390/w12082256"
+class="uri">https://doi.org/10.3390/w12082256</a>.</p>
+<p>Mankin, J.S., Viviroli, D., Singh, D., Hoekstra, A.Y., Diffenbaugh,
+N.S., 2015. The po- tential for snow to supply human water demand in the
+present and future. Environ. Res. Lett. 10. <a
+href="https://doi.org/10.1088/1748-9326/10/11/114016"
+class="uri">https://doi.org/10.1088/1748-9326/10/11/114016</a>.</p>
+<p>Penna, D., van Meerveld, H.J., Zuecco, G., Dalla Fontana, G., Borga,
+M., 2016. Hydrological response of an Alpine catchment to rainfall and
+snowmelt events. J. Hydrol. 537, 382–397. <a
+href="https://doi.org/10.1016/j.jhydrol.2016.03.040"
+class="uri">https://doi.org/10.1016/j.jhydrol.2016.03.040</a>.</p>
+<p>Rittger, K., Painter, T. H., &amp; Dozier, J. (2013). Assessment of
+methods for mapping snow cover from MODIS. Advances in Water Resources,
+51, 367–380. <a href="https://doi.org/10.1016/j.advwatres.2012.03.002"
+class="uri">https://doi.org/10.1016/j.advwatres.2012.03.002</a></p>
+<p>Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J.,
+Karna, J.P., Bojkov, B., 2011. Estimating northern hemisphere snow water
+equivalent for climate research through assimilation of space-borne
+radiometer data and ground-based measurements. Rem. Sens. Environ. 115
+(12), 3517–3529.</p>
+<p>Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman,
+E., Coops, N. C., Castelli, G., Bresci, E., Preti, F., &amp; Valentini,
+R. (2022). SnowWarp : An open science and open data tool for daily
+monitoring of snow dynamics. Environmental Modelling and Software,
+156(July), 105477. <a
+href="https://doi.org/10.1016/j.envsoft.2022.105477"
+class="uri">https://doi.org/10.1016/j.envsoft.2022.105477</a></p>
+</div>
+</div>
+<div id="english" class="section level1">
+<h1>English</h1>
+<div id="introduction-to-the-problem" class="section level2">
+<h2>1) Introduction to the problem</h2>
+<p><strong>More than 25% of the worlds population relies on mountain
+snowmelt for fresh water supply</strong> (Mankin et al., 2015).
+<strong>Also, snow is an essential hydrological variable affecting
+runoff production, spring recharge, and water availability in mountain
+environments</strong> (e.g., Lucianetti et al., 2020; Penna et al.,
+2016).</p>
+<p><strong>Global climatic, hydrological, and biogeochemical processes
+are highly dependent on seasonal snow cover</strong> (Takala et al.,
+2011). <strong>Informed ecosystem management requires understanding the
+extent of seasonal snow cover, as it impacts a range of ecosystem
+services, including water resources provisioning, habitat availability
+for wildlife species, and human recreational use of the
+landscape.</strong></p>
+<p><strong>Under a changing climate, the timing and extent of seasonal
+snow cover are uncertain, and accurate snow cover mapping is
+increasingly important to understand snow dynamics</strong> (Berman et
+al., 2018; Corbari et al., 2022).</p>
+<p><strong>The acces to this information is now easier than before.
+However, we still need a more efficient easy to use platform to extract
+this information. The goal of</strong>
+<strong><em>SnowCovApp</em></strong> <strong>is to fill this problem,
+being a free easy to use online platform.</strong></p>
+</div>
+<div id="introduction-to-snowcovapp" class="section level2">
+<h2>2) Introduction to <em>SnowCovApp</em></h2>
+<p><strong><em>SnowCovApp</em></strong> <strong>is a web app constructed
+on Google Earth Engine platform combinig</strong>
+<strong><em>JavaScript</em></strong> <strong>and</strong>
+<strong><em>CSS</em></strong> <strong>languages.</strong>
+<strong><em>SnowCovApp</em></strong> <strong>generates daily Snow Cover
+Area data (in hectares and percentage) with world cover.</strong></p>
+<p><strong>This app uses the MODIS product</strong> <strong><em>“MOD10A1
+Terra Snow Cover Daily Global 500m.”</em></strong> <strong>This product
+contains daily data from 2000-02-24 to the current date (with a lag of
+approximately 2 weeks).</strong></p>
+</div>
+<div id="methodology" class="section level2">
+<h2>3) Methodology</h2>
+<p><strong>Using the product</strong> <strong><em>MOD10A1</em></strong>
+<strong>in Google Earth Engine platfform, the fractional Snow Cover Area
+(fSCA) was calculated. This was done by applying the</strong>
+<strong><em>Rittger et al.</em></strong> <strong>(2012) methodology.
+Then, the fSCA values were transformed to binary Snow Cover Area (bSCA).
+This was done by setting a threshold of 0.5, which means that if a pixel
+is covered by 50% (or more) of snow, it is classified as snow. If the
+above condition is not met, it is considered as no-snow. In this way, a
+binary classification is obtained, with snow and no-snow classes. Then,
+for the area of interest, the area covered by snow (in hectares) and the
+percentage of the area of interest that is covered by snow are
+calculated.</strong></p>
+</div>
+<div id="community-region-of-interest" class="section level2">
+<h2>4) Community region of interest</h2>
+<p><strong>People who are interested in study a certain region can send
+a shapefile of it. This shapefile will be add to the section</strong>
+<strong><em>“choose a community ROI”.</em></strong> <strong>The
+shapefile needs to be sent by email to <a href="mailto:ajsalazar@uc.cl"
+class="email">ajsalazar@uc.cl</a> with a short description of the
+area.</strong></p>
+</div>
+<div id="snowcovapp-strengths" class="section level2">
+<h2>5) <em>SnowCovApp</em> strengths</h2>
+<ul>
+<li><p><strong>Processing speed: As</strong>
+<strong><em>SnowCovApp</em></strong> <strong>was created using</strong>
+<strong><em>Google Earth Engine,</em></strong> <strong>the power of this
+platform (which runs on Google’s servers) is a great advantage in
+processing this data.</strong></p></li>
+<li><p><strong>Wide temporal coverage: Data are available from
+2000-02-24 to the current date (with a lag of approximately two
+weeks).</strong></p></li>
+<li><p><strong>Worldwide coverage:</strong>
+<strong><em>SnowCovApp</em></strong> <strong>can be used virtually
+anywhere in the world.</strong></p></li>
+<li><p><strong>Easy to use: the handling of this application is quite
+simple, since it basically consists of two steps: select the area of
+study and the date of interest.</strong></p></li>
+<li><p><strong>No need to create a</strong> <strong><em>Google Earth
+Engine</em></strong> <strong>account: to use</strong>
+<strong><em>SnowCovApp</em></strong> <strong>you don’t need to have
+a</strong> <strong><em>Google Earth Engine</em></strong>
+<strong>account, so anyone can use it.</strong></p></li>
+<li><p><strong>No software download required: this application runs on
+the web, so no software download is required.</strong></p></li>
+<li><p><strong>Data can be downloaded in CSV format: the large amount of
+data generated in</strong> <strong><em>SnowCovApp</em></strong>
+<strong>can be downloaded directly to a CSV file.</strong></p></li>
+</ul>
+</div>
+<div id="snowcovapp-limitations" class="section level2">
+<h2>6) <em>SnowCovApp</em> Limitations</h2>
+<ul>
+<li><p><strong>Cloud cover: like most uses of satellite imagery, the
+presence of clouds is a problem. Similar studies of snow cover classify
+cloud contaminated data as missing data.</strong>
+<strong><em>SnowCovApp</em></strong> <strong>also has this problem, so
+the actual SCA value is an approximation of reality. Future studies
+should be performed in order to fill the cloud contaminated
+pixels.</strong></p></li>
+<li><p><strong>Study period: The product used (MOD10A1) contains daily
+data from 2000-02-24 to the current date (with a lag of approximately 2
+weeks). In the section</strong> <strong><em>“Study period charts: Daily
+SCA (hectares and percentage)”</em></strong> <strong>only approximately
+13 years of daily data can be downloaded. If you want to download a
+longer time series, you can do the extraction in two parts. This is
+because</strong> <strong><em>Google Earth Engine</em></strong>
+<strong>has a limit on the processing of this data.</strong></p></li>
+<li><p><strong>Study area size: it is likely that if a very large study
+area (whole countries for example) is used in</strong>
+<strong><em>SnowCovApp,</em></strong> <strong>some data may not be
+generated. Specifically, the supplementary charts</strong>
+<strong><em>(“Extra charts: Mean and maximum annual SCA”)</em></strong>
+<strong>may not be generated. This is because these charts analyze a
+large amount of data and</strong> <strong><em>Google Earth
+Engine</em></strong> <strong>has a limit in processing this
+data.</strong></p></li>
+</ul>
+</div>
+<div id="references" class="section level2">
+<h2>7) References</h2>
+<p>Aalstad, K., Westermann, S., &amp; Bertino, L. (2020). Evaluating
+satellite retrieved fractional snow-covered area at a high-Arctic site
+using terrestrial photography. Remote Sensing of Environment,
+239(December 2019), 111618. <a
+href="https://doi.org/10.1016/j.rse.2019.111618"
+class="uri">https://doi.org/10.1016/j.rse.2019.111618</a></p>
+<p>Berman, E.E., Bolton, D.K., Coops, N.C., Mityok, Z.K., Stenhouse,
+G.B., Moore, R.D., 2018. Daily estimates of Landsat fractional snow
+cover driven by MODIS and dynamic time-warping. Rem. Sens. Environ. 216,
+635–646.</p>
+<p>Corbari, C., Ravazzani, G., Perotto, A., Lanzingher, G., Lombardi,
+G., Quadrio, M., Mancini, M., Salerno, R., 2022. Weekly monitoring and
+forecasting of hydropower production coupling meteo-hydrological
+modeling with ground and satellite data in the Italian Alps. Hydrology 9
+(2), 29. <a href="https://doi.org/10.3390/hydrology9020029"
+class="uri">https://doi.org/10.3390/hydrology9020029</a>.</p>
+<p>Lucianetti, G., Penna, D., Mastrorillo, L., Mazza, R., 2020. The role
+of snowmelt on the spatio-temporal variability of spring recharge in a
+Dolomitic mountain group, Italian Alps. Water 12, 2256. <a
+href="https://doi.org/10.3390/w12082256"
+class="uri">https://doi.org/10.3390/w12082256</a>.</p>
+<p>Mankin, J.S., Viviroli, D., Singh, D., Hoekstra, A.Y., Diffenbaugh,
+N.S., 2015. The po- tential for snow to supply human water demand in the
+present and future. Environ. Res. Lett. 10. <a
+href="https://doi.org/10.1088/1748-9326/10/11/114016"
+class="uri">https://doi.org/10.1088/1748-9326/10/11/114016</a>.</p>
+<p>Penna, D., van Meerveld, H.J., Zuecco, G., Dalla Fontana, G., Borga,
+M., 2016. Hydrological response of an Alpine catchment to rainfall and
+snowmelt events. J. Hydrol. 537, 382–397. <a
+href="https://doi.org/10.1016/j.jhydrol.2016.03.040"
+class="uri">https://doi.org/10.1016/j.jhydrol.2016.03.040</a>.</p>
+<p>Rittger, K., Painter, T. H., &amp; Dozier, J. (2013). Assessment of
+methods for mapping snow cover from MODIS. Advances in Water Resources,
+51, 367–380. <a href="https://doi.org/10.1016/j.advwatres.2012.03.002"
+class="uri">https://doi.org/10.1016/j.advwatres.2012.03.002</a></p>
+<p>Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J.,
+Karna, J.P., Bojkov, B., 2011. Estimating northern hemisphere snow water
+equivalent for climate research through assimilation of space-borne
+radiometer data and ground-based measurements. Rem. Sens. Environ. 115
+(12), 3517–3529.</p>
+<p>Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman,
+E., Coops, N. C., Castelli, G., Bresci, E., Preti, F., &amp; Valentini,
+R. (2022). SnowWarp : An open science and open data tool for daily
+monitoring of snow dynamics. Environmental Modelling and Software,
+156(July), 105477. <a
+href="https://doi.org/10.1016/j.envsoft.2022.105477"
+class="uri">https://doi.org/10.1016/j.envsoft.2022.105477</a></p>
+<p><br />
+<br />
+</p>
+<center>
+<img src="images/logo_final.png" width="100" />
+</center>
+</div>
+</div>
+</div>
+
+   
+   
+              </div>
+  </div>
+  </div>
+  </div>
+   
+      
+
+  <script>
+    $(document).ready(function () {
+
+		// add bootstrap table styles to pandoc tables
+	$('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+		
+ 		
+	    });
+  </script>
+
+
+
+    <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+	document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+  
+</body>
+</html>

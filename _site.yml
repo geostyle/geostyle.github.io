@@ -27,6 +27,11 @@ navbar:
          href: proximos.html
        - text: "Anteriores"
          href: eventos.html
+    - text: "Apps"
+      icon: fa-exclamation-circle
+      menu:
+       - text: "SnowCovApp"
+         href: snowcovapp.html
     - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"
