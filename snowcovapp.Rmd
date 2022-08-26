@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](images/scapp.png){width="269"}
 
-*Version 1.0 (2022-08-21)*
+*Version 1.1 (2022-08-26)*
 
 *Author: Andrés Salazar ([ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email})*
 
@@ -66,7 +66,7 @@ Click <a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" targ
 
 -   **Periodo de estudio: El producto utilizado (MOD10A1) contiene datos diarios desde el 2000-02-24 hasta la fecha actual (con un desfase de aproximadamente 2 semanas). En la sección** ***"Study period charts: Daily SCA (hectares and percentage)"*** **sólo se pueden descargar datos diarios de aproximadamente 13 años. Si desea descargar una serie temporal más larga, puede hacer la extracción en dos partes. Esto es debido a que** ***Google Earth Engine*** **tiene un límite en el procesamiento de estos datos.**
 
--   **Tamaño del área de estudio: es probable que si se introduce un área de estudio muy grande (países completos por ejemplo) en** ***SnowCovApp,*** **algunos datos no puedan generarse. Específicamente, los gráficos complementarios** ***("Extra charts: Mean and maximum annual SCA")*** **podrían no generarse. Esto es debido a que esos gráficos analizan una gran cantidad de datos y** ***Google Earth Engine*** **tiene un límite en el procesamiento de estos datos.**
+-   **Tamaño del área de estudio: es probable que si se introduce un área de estudio muy grande (países completos por ejemplo) en** ***SnowCovApp,*** **algunos datos no puedan generarse. Esto es debido a que esos gráficos analizan una gran cantidad de datos y** ***Google Earth Engine*** **tiene un límite en el procesamiento de estos datos.**
 
 ## 7) Referencias
 
@@ -136,7 +136,7 @@ Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops,
 
 -   **Study period: The product used (MOD10A1) contains daily data from 2000-02-24 to the current date (with a lag of approximately 2 weeks). In the section** ***"Study period charts: Daily SCA (hectares and percentage)"*** **only approximately 13 years of daily data can be downloaded. If you want to download a longer time series, you can do the extraction in two parts. This is because** ***Google Earth Engine*** **has a limit on the processing of this data.**
 
--   **Study area size: it is likely that if a very large study area (whole countries for example) is used in** ***SnowCovApp,*** **some data may not be generated. Specifically, the supplementary charts** ***("Extra charts: Mean and maximum annual SCA")*** **may not be generated. This is because these charts analyze a large amount of data and** ***Google Earth Engine*** **has a limit in processing this data.**
+-   **Study area size: it is likely that if a very large study area (whole countries for example) is used in** ***SnowCovApp,*** **some data may not be generated. This is because these charts analyze a large amount of data and** ***Google Earth Engine*** **has a limit in processing this data.**
 
 ## 7) References
 
