@@ -14,6 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+![](images/curso_GEE_agosto_2022-02.png){width="581"}
+
+\
+
 ![](images/curso_ae_r-01.gif){width="581"}
 
 \
@@ -42,8 +46,4 @@ knitr::opts_chunk$set(echo = TRUE)
 \
 \
 
-<center>
-
-![](images/logo_final.png){width="100"}
-
-</center>
+<center>![](images/logo_final.png){width="100"}</center>
