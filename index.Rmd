@@ -7,11 +7,11 @@ title: ""
 
 
 
-# <p style="font-size: 60px; font-weight: bold">GeoStyle</p>
+# <p style="font-size: 50px; font-weight: bold">GeoStyle</p>
 
 <hr>
 
-<p style="font-size: 30px; font-weight: bold">Consultora Ambiental / Environmental Consultant</p>
+<p style="font-size: 25px; font-weight: bold">Consultora Ambiental / Environmental Consultant</p>
 
 
 
