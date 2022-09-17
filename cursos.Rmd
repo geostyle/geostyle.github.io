@@ -9,9 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Cursos Online (Asincrónicos)**
 
-Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos es 19,99 USD**
+Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos es 19,99 USD** (puede ser menor, ya que a veces Udemy ofrece descuentos).
 
-**Más de 3.000 personas ya se han inscrito a los cursos.** Qué estás esperando para inscribirte!
+**Más de 4.000 personas ya se han inscrito a los cursos.** ¿Qué estás esperando para inscribirte?!
 
 <a href =  "https://geostyle.github.io/ejemplos.html" target = "_blank" rel = "noopener noreferrer"> **Ejemplos de lo que aprenderás en los cursos** </a>
 
