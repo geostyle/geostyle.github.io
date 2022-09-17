@@ -29,6 +29,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- Modelos de Distribución de Especies (SDM)**
 
+**- Creación de mapas web (Leaflet)**
+
+**- Creación de aplicaciones web (Shiny y Google Earth Engine)**
+
 \
 
 ### **2) Estadística:**
@@ -96,6 +100,10 @@ knitr::opts_chunk$set(echo = TRUE)
 **- Wildfire analysis**
 
 **- Species Distribution Modeling (SDM)**
+
+**- Web maps development (Leaflet)**
+
+**- Web applications development (Shiny and Google Earth Engine)**
 
 \
 
