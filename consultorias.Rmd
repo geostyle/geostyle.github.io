@@ -41,11 +41,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- Geostadística**
 
-**- Clustering**
-
 **- Modelos estadísticos (Regresión lineal, GLM, entre otros)**
 
 **- Modelos de clasificación y de regresión mediante Machine Learning**
+
+**- Análisis de series de tiempo**
+
+**- Clustering**
+
+
 
 \
 
@@ -113,11 +117,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **- Geostatistics**
 
-**- Clustering**
-
 **- Statistical models (Linear regression, GLM, among others)**
 
 **- Classification and regression models by Machine Learning**
+
+**- Time series analysis**
+
+**- Clustering**
+
 
 \
 
