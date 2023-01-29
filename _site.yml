@@ -34,6 +34,8 @@ navbar:
       menu:
        - text: "SnowCovApp"
          href: snowcovapp.html
+       - text: "GreenExplorer"
+         href: green_explorer.html
     - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"
