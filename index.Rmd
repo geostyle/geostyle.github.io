@@ -1,23 +1,15 @@
 ---
 title: ""
 ---
-<head>
-  <title> GeoStyle </title>
-</head>
 
+# <p style="font-size: 50px; font-weight: bold; margin: 0px 190px;">GeoStyle</p>
 
-
-# <p style="font-size: 50px; font-weight: bold">GeoStyle</p>
+<p style="font-size: 22px; font-weight: bold; margin: 0px 60px;">Consultora Ambiental / Environmental Consultant</p>
 
 <hr>
 
-<p style="font-size: 25px; font-weight: bold">Consultora Ambiental / Environmental Consultant</p>
+<img src="images/logo_final.png" style = "width: 299px; margin: 0px 160px;" >
 
-
-
-  
 \
-
-![](images/logo_final.png){width="299"}\
 
 <hr>
