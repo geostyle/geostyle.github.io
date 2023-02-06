@@ -18,7 +18,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **Principales servicios ofrecidos:**
 
-
 ### **1) Teledetección:**
 
 **- Mapeo de cobertura y uso de suelo**
@@ -48,8 +47,6 @@ knitr::opts_chunk$set(echo = TRUE)
 **- Análisis de series de tiempo**
 
 **- Clustering**
-
-
 
 \
 
