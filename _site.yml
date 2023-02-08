@@ -36,6 +36,8 @@ navbar:
          href: snowcovapp.html
        - text: "GreenExplorer"
          href: green_explorer.html
+       - text: "Burn SeveridApp"
+         href: burn_severidapp.html
     - text: "Sobre GeoStyle"
       href: about.html
     - text: "Contacto"
