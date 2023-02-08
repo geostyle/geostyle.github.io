@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Click <a href =  "https://andres-gee.users.earthengine.app/view/burn-severidapp" target = "_blank" rel = "noopener noreferrer"> **here** </a> to access to *Burn SeveridApp*
 
+<a href =  "https://www.youtube.com/watch?v=mz-mZTVyX5U&ab_channel=GeoStyle" target = "_blank" rel = "noopener noreferrer"> **Video** </a>
+
 More info about the methodology:
 
 <a href =  "https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/in-detail/normalized-burn-ratio" target = "_blank" rel = "noopener noreferrer"> https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/in-detail/normalized-burn-ratio </a>
