@@ -49,8 +49,6 @@ title: ""
 <hr>
 
 <br>
-<br>
-
 
 <div style="text-align: center;">
 
@@ -106,8 +104,6 @@ title: ""
 **As we use programming languages in most of our services, we perform processes in a fast and reproducible way.**
 
 <hr>
-
-<br>
 
 <br>
 
