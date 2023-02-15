@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # ***SnowCovApp***
 
+<br>
+
 ![](images/scapp.png){width="269"}
 
 *Version 1.1 (2022-08-26)*
@@ -16,11 +18,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Click <a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" target = "_blank" rel = "noopener noreferrer"> **here** </a> to access to *SnowCovApp*
 
-(English description below)
+<br>
 
-# Español
+<h2> <strong><em>Español</em></strong> </h2>
+
+<p>English below</p>
+
+<br>
 
 ## 1) Introducción al problema
+
+<br>
 
 **Más del 25% de la población mundial depende del deshielo de las montañas para el suministro de agua dulce** (Mankin et al., 2015). **Además, la nieve es una variable hidrológica esencial que afecta a la producción de escorrentía, la recarga de los manantiales y la disponibilidad de agua en los entornos de montaña** (por ejemplo, Lucianetti et al., 2020; Penna et al., 2016).
 
@@ -30,21 +38,37 @@ Click <a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" targ
 
 **El acceso a esta información es ahora más fácil que antes. Sin embargo, todavía necesitamos una plataforma más eficiente y fácil de usar para extraer esta información. El objetivo de** ***SnowCovApp*** **es cubrir este problema, siendo una plataforma online gratuita y fácil de usar.**
 
+<br>
+
 ## 2) Introducción a *SnowCovApp*
+
+<br>
 
 ***SnowCovApp*** **es una aplicación web construida en la plataforma** ***Google Earth Engine*** **combinando los lenguajes** ***JavaScript*** **y** ***CSS.*** ***SnowCovApp*** **genera datos diarios del área de cobertura de nieve (en hectáreas y porcentaje) con cobertura mundial.**
 
 **Esta aplicación utiliza el producto MODIS** ***"MOD10A1 Terra Snow Cover Daily Global 500m"*** **Este producto contiene datos diarios desde el 2000-02-24 hasta la fecha actual (con un retraso de aproximadamente 1 semana).**
 
+<br>
+
 ## 3) Metodología
+
+<br>
 
 **Utilizando el producto** ***MOD10A1*** **en la plataforma** ***Google Earth Engine,*** **se calculó el área de cobertura de nieve fraccionada (fSCA). Para ello, se aplicó la metodología de** ***Rittger et al.*** **(2012). Luego, los valores de fSCA se transformaron en área de cobertura de nieve binaria (bSCA). Para ello se estableció un umbral de 0.5, lo que significa que si un píxel está cubierto por un 50% (o más) de nieve, se clasifica como nieve. Si no se cumple la condición anterior, se considera que no hay nieve. De este modo, se obtiene una clasificación binaria, con clases de nieve y no nieve. Después, para la zona de interés, se calcula la superficie cubierta de nieve (en hectáreas) y el porcentaje de la superficie de interés que está cubierta de nieve.**
 
+<br>
+
 ## 4) Región de interés de la comunidad
+
+<br>
 
 **Las personas que estén interesadas en estudiar una región determinada pueden enviar un shapefile de esta. Este shapefile se añadirá a la sección** ***"choose a community ROI."*** **El shapefile debe enviarse por correo electrónico a [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email} con una breve descripción de la zona.**
 
+<br>
+
 ## 5) Fortalezas de *SnowCovApp*
+
+<br>
 
 -   **Velocidad de procesamiento: Como** ***SnowCovApp*** **fue creada usando** ***Google Earth Engine,*** **la potencia de esta plataforma (la cual funciona con los servidores de Google) es una gran ventaja en el procesamiento de estos datos.**
 
@@ -60,7 +84,11 @@ Click <a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" targ
 
 -   **Se pueden descargar los datos en formato CSV: la gran cantidad de datos generadas en** ***SnowCovApp*** **pueden ser descargados directamente en un archivo CSV.**
 
+<br>
+
 ## 6) Limitaciones de *SnowCovApp*
+
+<br>
 
 -   **Cobertura de nubes: como la mayoría de los usos de imágenes de satelite, la presencia de nubes es un problema. Estudios similares de cobertura de nieve, clasifican los datos contaminados con nubes como datos perdidos.** ***SnowCovApp*** **también tiene este problema, por lo que el valor real de SCA es una aproximación de la realidad. Futuros estudios se deben realizar para poder llenar los pixeles contaminados con nubes.**
 
@@ -68,7 +96,11 @@ Click <a href =  "https://andres-gee.users.earthengine.app/view/snowcovapp" targ
 
 -   **Tamaño del área de estudio: es probable que si se introduce un área de estudio muy grande (países completos por ejemplo) en** ***SnowCovApp,*** **algunos datos no puedan generarse. Esto es debido a que esos gráficos analizan una gran cantidad de datos y** ***Google Earth Engine*** **tiene un límite en el procesamiento de estos datos.**
 
+<br>
+
 ## 7) Referencias
+
+<br>
 
 Aalstad, K., Westermann, S., & Bertino, L. (2020). Evaluating satellite retrieved fractional snow-covered area at a high-Arctic site using terrestrial photography. Remote Sensing of Environment, 239(December 2019), 111618. <https://doi.org/10.1016/j.rse.2019.111618>
 
@@ -88,9 +120,15 @@ Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J., Karna, J.P
 
 Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops, N. C., Castelli, G., Bresci, E., Preti, F., & Valentini, R. (2022). SnowWarp : An open science and open data tool for daily monitoring of snow dynamics. Environmental Modelling and Software, 156(July), 105477. <https://doi.org/10.1016/j.envsoft.2022.105477>
 
-# English
+<br>
+
+<h2> <strong><em>English</em></strong> </h2>
+
+<br>
 
 ## 1) Introduction to the problem
+
+<br>
 
 **More than 25% of the worlds population relies on mountain snowmelt for fresh water supply** (Mankin et al., 2015). **Also, snow is an essential hydrological variable affecting runoff production, spring recharge, and water availability in mountain environments** (e.g., Lucianetti et al., 2020; Penna et al., 2016).
 
@@ -100,21 +138,37 @@ Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops,
 
 **The acces to this information is now easier than before. However, we still need a more efficient easy to use platform to extract this information. The goal of** ***SnowCovApp*** **is to fill this problem, being a free easy to use online platform.**
 
+<br>
+
 ## 2) Introduction to *SnowCovApp*
+
+<br>
 
 ***SnowCovApp*** **is a web app constructed on Google Earth Engine platform combinig** ***JavaScript*** **and** ***CSS*** **languages.** ***SnowCovApp*** **generates daily Snow Cover Area data (in hectares and percentage) with world cover.**
 
 **This app uses the MODIS product** ***"MOD10A1 Terra Snow Cover Daily Global 500m."*** **This product contains daily data from 2000-02-24 to the current date (with a lag of approximately 1 week).**
 
+<br>
+
 ## 3) Methodology
+
+<br>
 
 **Using the product** ***MOD10A1*** **in Google Earth Engine platfform, the fractional Snow Cover Area (fSCA) was calculated. This was done by applying the** ***Rittger et al.*** **(2012) methodology. Then, the fSCA values were transformed to binary Snow Cover Area (bSCA). This was done by setting a threshold of 0.5, which means that if a pixel is covered by 50% (or more) of snow, it is classified as snow. If the above condition is not met, it is considered as no-snow. In this way, a binary classification is obtained, with snow and no-snow classes. Then, for the area of interest, the area covered by snow (in hectares) and the percentage of the area of interest that is covered by snow are calculated.**
 
+<br>
+
 ## 4) Community region of interest
+
+<br>
 
 **People who are interested in study a certain region can send a shapefile of it. This shapefile will be add to the section** ***"choose a community ROI".*** **The shapefile needs to be sent by email to [ajsalazar\@uc.cl](mailto:ajsalazar@uc.cl){.email} with a short description of the area.**
 
+<br>
+
 ## 5) *SnowCovApp* strengths
+
+<br>
 
 -   **Processing speed: As** ***SnowCovApp*** **was created using** ***Google Earth Engine,*** **the power of this platform (which runs on Google's servers) is a great advantage in processing this data.**
 
@@ -130,7 +184,11 @@ Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops,
 
 -   **Data can be downloaded in CSV format: the large amount of data generated in** ***SnowCovApp*** **can be downloaded directly to a CSV file.**
 
+<br>
+
 ## 6) *SnowCovApp* Limitations
+
+<br>
 
 -   **Cloud cover: like most uses of satellite imagery, the presence of clouds is a problem. Similar studies of snow cover classify cloud contaminated data as missing data.** ***SnowCovApp*** **also has this problem, so the actual SCA value is an approximation of reality. Future studies should be performed in order to fill the cloud contaminated pixels.**
 
@@ -138,7 +196,11 @@ Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops,
 
 -   **Study area size: it is likely that if a very large study area (whole countries for example) is used in** ***SnowCovApp,*** **some data may not be generated. This is because these charts analyze a large amount of data and** ***Google Earth Engine*** **has a limit in processing this data.**
 
+<br>
+
 ## 7) References
+
+<br>
 
 Aalstad, K., Westermann, S., & Bertino, L. (2020). Evaluating satellite retrieved fractional snow-covered area at a high-Arctic site using terrestrial photography. Remote Sensing of Environment, 239(December 2019), 111618. <https://doi.org/10.1016/j.rse.2019.111618>
 
@@ -158,7 +220,7 @@ Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J., Karna, J.P
 
 Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops, N. C., Castelli, G., Bresci, E., Preti, F., & Valentini, R. (2022). SnowWarp : An open science and open data tool for daily monitoring of snow dynamics. Environmental Modelling and Software, 156(July), 105477. <https://doi.org/10.1016/j.envsoft.2022.105477>
 
-\
-\
+<br>
+<br>
 
 <center>![](images/logo_final.png){width="100"}</center>

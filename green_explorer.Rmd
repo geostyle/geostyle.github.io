@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # ***GreenExplorer***
 
+<br>
+
 ![](images/Imagen1.png){width="448"}
 
 *Version 1.0 (2023-01-29)*

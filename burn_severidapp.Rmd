@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # ***Burn SeveridApp***
 
+<br>
+
 ![](images/burn_app.png){width="367"}
 
 *Version 1.0 (2023-02-08)*

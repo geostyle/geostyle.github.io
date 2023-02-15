@@ -2,7 +2,9 @@
 title: ""
 ---
 
-# **Opiniones de los cursos**
+<h1> <strong>Opiniones de los cursos</strong> </h1>
+
+<br>
 
 ![](images/2-01.png)
 

@@ -2,14 +2,25 @@
 title: ""
 ---
 
-# <p style="font-size: 50px; font-weight: bold; margin: 0px 190px;">GeoStyle</p>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultorías/Consultancies</title>
+</head>
+
+<div style="text-align: center;">
+
+# <p style="font-size: 50px; font-weight: bold">GeoStyle</p>
 
 <p style="font-size: 22px; font-weight: bold; margin: 0px 60px;">Consultora Ambiental / Environmental Consultant</p>
 
 <hr>
 
-<img src="images/logo_final.png" style = "width: 299px; margin: 0px 150px;">
+<img src="images/logo_final.png" style = "width: 299px">
 
 \
 
 <hr>
+
+</div>

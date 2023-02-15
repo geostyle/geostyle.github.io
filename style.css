@@ -1,4 +1,87 @@
-#holi {
-  border-radius: 500px;
+body {
+  background-color: #2F3136;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.7;
 }
 
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 1.2rem
+  font-weight: 400;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+.servicios {
+  color: black;
+}
+
+.img-curso {
+  float: left;
+  width: 318px;
+  margin-bottom: 15px;
+  margin-right: 40px;
+}
+
+.contenido-curso {
+  font-weight: strong;
+}
+
+.hr-curso {
+  clear: left;
+}
+
+.grid-servicios {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    column-gap: 5px;
+}
+
+
+.titulo-servicio {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.servicio {
+    border-radius: 10px; 
+    background: linear-gradient(90deg, #162a7e, #4f65c2); 
+    color: white; 
+  }
+  
+.contenido-servicio {
+  color: white; 
+  font-weight: bold;
+}
+
+.que-aprenderas {
+  font-weight: bold;
+  size: 100px;
+}

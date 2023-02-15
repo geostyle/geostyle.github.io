@@ -7,11 +7,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-# **Cursos Online (Asincrónicos)**
+<h1> <strong> Cursos Online (Asincrónicos) <strong> </h1>
 
-Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. **El precio de estos cursos va desde los 19,99 hasta los 29.99 USD** (el precio puede ser menor, ya que a veces hay ofertas en Udemy).
+<br>
 
-**Más de 4.000 personas ya se han inscrito a los cursos.** ¿Qué estás esperando para inscribirte?!
+<p> Estos cursos se encuentran en la plataforma <em>Udemy</em>. Son videos grabados, por lo tanto, tienen una metodología flexible que te permitirá avanzar cuando más te acomode. Los cursos contienen ejercicios para practicar lo aprendido y una vez que te inscribes, tienes acceso para siempre a ellos. 
+
+</p>
+
+
+<p>
+<strong>El precio de estos cursos va desde los 19.99 hasta los 29.99 USD</strong> (el precio puede ser menor, ya que a veces hay ofertas en Udemy). </p>
+
+<p> <strong>Más de 4.000 personas ya se han inscrito a los cursos.</strong> Qué estás esperando para inscribirte! </p>
+
+<br>
 
 <a href =  "https://geostyle.github.io/ejemplos.html" target = "_blank" rel = "noopener noreferrer"> **Ejemplos de lo que aprenderás en los cursos** </a>
 
@@ -19,15 +29,23 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 <a href =  "https://geostyle.github.io/metodologia.html" target = "_blank" rel = "noopener noreferrer"> **Más detalles de la metodología de los cursos** </a>
 
+<br>
+
 **Para conocer más detalles sobre los contenidos y para inscribirte en los cursos, da click en su nombre**
 
 <hr>
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en R </a>
 
-<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo-01.png" id="holi" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-r/?referralCode=1B01AA9589CE530EC41A" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo-01.png"/> </a>
+
+<h3> Qué aprenderás: </h3>
+
+<br>
+
+<p>
 
 -   **Introducción a la programación en R**
 
@@ -35,13 +53,19 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento y análisis de archivos Raster**
 
-    <hr>
+</p>
+
+<hr class="hr-curso">
 
 ## <a href =  "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> Google Earth Engine y Machine Learning </a>
 
-<a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo.png" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/google-earth-engine-y-machine-learning/?referralCode=56C649FF16E5DACD42E2" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo.png"/> </a>
+
+<h3> Qué aprenderás: </h3>
+
+<br>
 
 -   **Introducción a la programación en JavaScript**
 
@@ -51,27 +75,42 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Realizar clasificaciones supervisadas y no supervisadas con algoritmos de Machine Learning**
 
-<hr>
+<br>
 
-## <a href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en Python </a>
+<hr class="hr-curso">
 
-<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo_curso.png" width="318"/> </a>
+## <a class="titulo-curso" href =  "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> Introducción a SIG y Teledetección en Python </a>
 
-**Qué aprenderás:**
+<br>
 
--   **Introducción a la programación en Python**
+<a href = "https://www.udemy.com/course/introduccion-a-sig-y-teledeteccion-en-python/?referralCode=FA603AF82DCB71867A29" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo_curso.png"/> </a>
 
--   **Procesamiento y análisis de archivos Shapefile**
 
--   **Procesamiento y análisis de archivos Raster**
+<p class="contenido-curso">
 
-<hr>
+<h3> Qué aprenderás: </h3>
 
-## <a href =  "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> SIG y Teledetección en R (Intermedio) </a>
+<br>
 
-<a href = "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo-03.png" width="318"/> </a>
+-   Introducción a la programación en Python
 
-**Qué aprenderás:**
+-   Procesamiento y análisis de archivos Shapefile
+
+-   Procesamiento y análisis de archivos Raster
+
+</p>
+
+<hr class="hr-curso">
+
+## <a class="titulo-curso" href =  "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> SIG y Teledetección en R (Intermedio) </a>
+
+<br>
+
+<a href = "https://www.udemy.com/course/sig-y-teledeteccion-en-r-intermedio/?referralCode=E8B08010A13D46668014" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo-03.png"/> </a>
+
+<h3> Qué aprenderás: </h3>
+
+<br>
 
 -   **Big Data Geoespacial**
 
@@ -79,13 +118,17 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Procesamiento de archivos raster y archivos vectoriales**
 
-<hr>
+<hr class="hr-curso">
 
 ## <a href =  "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> Mapas Web y Mapas Temáticos con R </a>
 
-<a href = "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo4.png" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/mapas-profesionales-e-interactivos-con-r-ggplot2-y-leaflet/?referralCode=447FB1C5FBAFFE084CEC" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo4.png"/> </a>
+
+<h3> Qué aprenderás: </h3>
+
+<br>
 
 -   **Introducción a la programación en R**
 
@@ -93,13 +136,17 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Realizar mapas web interactivos con el paquete "leaflet"**
 
-<hr>
+<hr class="hr-curso">
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> Introducción a Ecología del Paisaje en R </a>
 
-<a href = "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo-02.png" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/introduccion-a-ecologia-del-paisaje-en-r/?referralCode=2486BE25C1BB4224A397" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo-02.png"/> </a>
+
+<h3> Qué aprenderás: </h3>
+
+<br>
 
 -   **Introducción a la programación en R**
 
@@ -107,50 +154,79 @@ Estos cursos se encuentran en la plataforma ***Udemy***. Son videos grabados, po
 
 -   **Cálculo de métricas de paisaje e índices de conectividad**
 
-<hr>
+<hr class="hr-curso">
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-shinyapps-en-r-crea-aplicaciones-web/?referralCode=23156BE0D117658AD027" target = "_blank" rel = "noopener noreferrer"> Introducción a ShinyApps en R: crea aplicaciones web! </a>
 
-<a href = "https://www.udemy.com/course/introduccion-a-shinyapps-en-r-crea-aplicaciones-web/?referralCode=23156BE0D117658AD027" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo_curso-01.png" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/introduccion-a-shinyapps-en-r-crea-aplicaciones-web/?referralCode=23156BE0D117658AD027" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo_curso-01.png"/> </a>
 
--   **Introducción a la programación en R**
+<h3> Qué aprenderás: </h3>
 
--   **Funciones avanzadas con Tidyverse para el manejo de grandes cantidades de datos**
+<br>
 
--   **Crear aplicaciones web con Shiny**
+<ul>
 
--   **Crear aplicaciones web con datos espaciales**
+<li> <strong> Introducción a la programación en R </strong> </li>
 
-<hr>
+<li> <strong> Funciones avanzadas con Tidyverse para el manejo de grandes cantidades de datos </strong> </li>
+
+<li> <strong> Crear aplicaciones web con Shiny </strong> </li>
+
+</ul>
+
+<hr class="hr-curso">
 
 ## <a href =  "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> Introducción a la Programación en R para Principiantes </a>
 
-<a href = "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> <img src="images/r2.png" width="318"/> </a>
+<br>
 
-**Qué aprenderás:**
+<a href = "https://www.udemy.com/course/introduccion-a-r-gratis/?referralCode=36D0BFEDBFB3B24AB3A2" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/r2.png"/> </a>
 
--   **Introducción a la programación en R**
+<h3> Qué aprenderás: </h3>
 
--   **Funciones avanzadas con Tidyverse para el manejo de grandes cantidades de datos**
+<br>
 
-<hr>
+
+<ul>
+
+<li> <strong> Introducción a la programación en R </strong> </li>
+
+<li> <strong> Funciones avanzadas con Tidyverse para el manejo de grandes cantidades de datos </strong> </li>
+
+</ul>
+
+<hr class="hr-curso">
+
+<br>
 
 # Online Courses (in english)
 
+<br>
+
 ## <a href =  "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> Introduction to GIS and Remote Sensing with R </a>
 
-<a href = "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> <img src="images/logo-04.png" width="318"/> </a>
+<br>
 
-**What you will learn:**
+<a href = "https://www.udemy.com/course/introduction-to-gis-and-remote-sensing-with-r/?referralCode=B60C87ED87E7618E1C78" target = "_blank" rel = "noopener noreferrer"> <img class="img-curso" src="images/logo-04.png"/> </a>
 
--   **Spatial analysis**
+<h3> What you will learn: </h3>
 
--   **Raster processing**
+<br>
 
--   **Vector processing**
+<ul>
 
-\
+<li> <strong> Spatial analysis </strong> </li>
+
+<li> <strong> Raster processing </strong> </li>
+
+<li> <strong> Vector processing </strong> </li>
+
+</ul>
+
+<hr class="hr-curso">
+
+<br>
 
 <center>![](images/logo_final.png){width="100"}</center>

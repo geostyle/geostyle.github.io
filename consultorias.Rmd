@@ -6,11 +6,25 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Consultorías/Consultancies**
+<body>
 
-# ***Español***
+# **Consultorías / Consultancies**
+
+<br>
+
+<div>
+
+<h2> <strong><em>Español</em></strong> </h2>
+
+<p>English below</p>
+
+</div>
+
+<br>
 
 **Realizamos consultorías en el área de los recursos naturales, específicamente en temas de Teledetección, Sistemas de Información Geográfica, Estadística, Ecología del Paisaje, entre otros. **
+
+**Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
 
 **Recibimos clientes de todas partes del mundo, ya que nos gusta colaborar y aprender de diferentes culturas y realidades. Además, manejamos el idioma español e inglés. **
 
@@ -18,73 +32,82 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **Principales servicios ofrecidos:**
 
-### **1) Teledetección:**
+<br>
 
-**- Mapeo de cobertura y uso de suelo**
 
-**- Cálculo y análisis de múltiples índices espectrales**
 
-**- Análisis de incendios forestales**
 
-**- Modelos de Distribución de Especies (SDM)**
 
-**- Creación de mapas web (Leaflet)**
 
-**- Creación de aplicaciones web (Shiny y Google Earth Engine)**
 
-\
+<div class="grid-servicios"> 
 
-### **2) Estadística:**
+<div class="servicio">
 
-**- Estadística inferencial**
+<br>
 
-**- Geostadística**
+<h3 class="titulo-servicio">SIG y Teledetección</h3>
 
-**- Modelos estadísticos (Regresión lineal, GLM, entre otros)**
+<br>
 
-**- Modelos de clasificación y de regresión mediante Machine Learning**
+<p class="contenido-servicio"> -Mapeo de uso y cobertura de suelo <br>
+-Cálculo y análisis de múltiples índices espectrales <br>
+-Análisis de incendios forestales <br>
+-Modelos de Distribución de Especies (SDM) <br>
+-Creación de mapas web (Leaflet) <br>
+-Creación de aplicaciones web (Shiny y Google Earth Engine)
+</p>
 
-**- Análisis de series de tiempo**
+</div>
 
-**- Clustering**
 
-\
+<div class="servicio">
 
-### **3) Capacitaciones online:**
+<br>
 
-**- Personales o grupales**
+<h3 class="titulo-servicio">Estadística</h3>
 
-\
+<br>
 
-### **4) Otros:**
+<p class="contenido-servicio">-Estadística inferencial <br>
+                    -Geostadística <br>
+                    -Modelos estadísticos (Regresión lineal, GLM, entre otros) <br>
+                    -Modelos de Distribución de Especies (SDM) <br>
+                    -Modelos de clasificación y de regresión mediante Machine Learning <br>
+                    -Análisis de series de tiempo <br>
+                    -Clustering <br></p>
 
-**- Traducción de artículos científicos al inglés**
+</div>
 
-\
+<div class="servicio">
+
+<br>
+
+<h3 class="titulo-servicio">Capacitaciones</h3>
+
+<br>
+
+<p class="contenido-servicio">-Personales o grupales</p>
+
+</div>
+
+</div>
+
+<br>
 
 *Puedes consultar por un tema en particular
 
 <hr>
 
-## **Softwares/Plataformas utilizados**
+<br>
 
-**- R**
+<h2> ***English*** </h2>
 
-**- Google Earth Engine**
-
-**- Python**
-
-**- QGIS**
-
-<hr>
-
-**Como en la mayoría de nuestros servicios utilizamos lenguajes de programación, realizamos procesos de manera rápida y reproducible. Además, te compartimos los scripts ordenados, para que puedas replicar el procedimiento realizado. **
-
-\
-
-# ***English***
+<br>
 
 **We provide consulting services in the area of natural resources, specifically in Remote Sensing, Geographic Information Systems, Statistics, Landscape Ecology, among others. **
+
+**As in most of our services we use programming languages, we perform processes in a fast and reproducible way. In addition, we share with you the ordered scripts, so that you can replicate the procedure performed. **
 
 **We receive clients from all over the world, since we like to collaborate and learn from different cultures and realities. In addition, we are fluent in Spanish and English. **
 
@@ -92,67 +115,68 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## **Main services offered:**
 
-### **1) Remote Sensing:**
-
-**- Land cover and land use mapping**
-
-**- Calculation and analysis of multiple spectral indices**
-
-**- Wildfire analysis**
-
-**- Species Distribution Modeling (SDM)**
-
-**- Web maps development (Leaflet)**
-
-**- Web applications development (Shiny and Google Earth Engine)**
-
-\
-
-### **2) Statistics:**
-
-**- Inferential statistics**
-
-**- Geostatistics**
-
-**- Statistical models (Linear regression, GLM, among others)**
-
-**- Classification and regression models by Machine Learning**
-
-**- Time series analysis**
-
-**- Clustering**
+<br>
 
 
-\
+<div class="grid-servicios"> 
 
-### **3) Online trainings:**
+<div class="servicio">
 
-**- Personal or group**
+<br>
 
-\
+<h3 class="titulo-servicio">GIS and Remote Sensing</h3>
 
+<br>
+
+<p class="contenido-servicio"> -Land cover and land use mapping <br>
+-Calculation and analysis of multiple spectral indices <br>
+-Wildfire analysis <br>
+-Species Distribution Modeling (SDM) <br>
+-Web maps development (Leaflet) <br>
+-Web applications development (Shiny and Google Earth Engine)
+</p>
+
+</div>
+
+<div class="servicio">
+
+<br>
+
+<h3 class="titulo-servicio">Statistics</h3>
+
+<br>
+
+<p class="contenido-servicio">-Inferential statistics <br>
+                    -Geostatistics <br>
+                    -Statistical models (Linear regression, GLM, among others) <br>
+-Classification and regression models by Machine Learning <br>
+                    -Time series analysis <br>
+                    -Clustering <br></p>
+
+</div>
+
+<div class="servicio">
+
+<br>
+
+<h3 class="titulo-servicio">Online trainings</h3>
+
+<br>
+
+<p class="contenido-servicio">-Personal or group</p>
+
+</div>
+
+</div>
+
+<br>
 
 *You can ask about a particular topic.
 
-
-<hr>
-
-## **Softwares/Platforms used**
-
-**- R**
-
-**- Google Earth Engine**
-
-**- Python**
-
-**- QGIS**
-
-<hr>
-
-**As we use programming languages in most of our services, we perform processes in a fast and reproducible way. In addition, we share the scripts in order, so that you can replicate the procedure performed. **
-
-\
+<br>
 
 <center>
 ![](images/logo_final.png){width="100"}
 </center>
+
+</body>

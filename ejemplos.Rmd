@@ -2,17 +2,27 @@
 title: ""
 ---
 
-\
+<br>
 
-# **Ejemplos de lo que aprénderas en los cursos**
+<h1> <strong> Ejemplos de lo que aprénderas en los cursos </strong> </h1>
 
-## **Serie de tiempo índice NDVI**
+<br>
 
-![](images/mapita-01.png)\
-\
-\
+<h3> <strong>Serie de tiempo índice NDVI</strong> </h3>
 
-## **Mapa web interactivo**
+<p> <em> Curso: Mapas Web y Mapas Temáticos con R <em> </p>
+
+<br>
+
+![](images/mapita-01.png)
+<br>
+<br>
+
+<h3> <strong> Mapa web interactivo </strong> </h3>
+
+<p> <em> Curso: Mapas Web y Mapas Temáticos con R <em> </p>
+
+<br>
 
 ```{r, echo=FALSE, warning=F, message=F}
 pacman::p_load(tidyverse,leaflet, leaflet.extras, sf, raster)
@@ -56,48 +66,72 @@ leaflet() %>%
   addStyleEditor
 
 ```
-\
-\
+<br>
+<br>
 
-## **Animación NDVI África**
+<h3> <strong> Animación NDVI África </strong> </h3>
 
-![](images/modis-ndvi-time-series-animation.gif){width="574"}\
-\
-\
+<p> <em> Curso: Google Earth Engine y Machine Learning <em> </p>
 
-## **Mapa Uruguay**
+<br>
 
-![](images/mapa_uruguay.png)\
-\
-\
+![](images/modis-ndvi-time-series-animation.gif){width="574"}<br>
+<br>
+<br>
 
-## **Serie de tiempo NDVI para diferentes coberturas**
+<h3> <strong> Mapa Uruguay </strong> </h3>
+
+<p> <em> Curso: Mapas Web y Mapas Temáticos con R <em> </p>
+
+<br>
+
+![](images/mapa_uruguay.png)<br>
+<br>
+<br>
+
+<h3> <strong> Serie de tiempo NDVI para diferentes coberturas </strong> </h3>
+
+<p> <em> Curso: SIG y Teledetección en R (Intermedio) <em> </p>
+
+<br>
 
 ![](images/NDVI_ts.png)
-\
-\
+<br>
+<br>
 
-## **Índice NDVI con diferentes paletas de colores**
+<h3> <strong> Índice NDVI con diferentes paletas de colores </h3> </strong>
 
-![](images/map_colors.png)\
-\
-\
+<p> <em> Curso: Mapas Web y Mapas Temáticos con R <em> </p>
 
-## **Mapa Parque Nacional Conguillío**
+<br>
+
+![](images/map_colors.png)<br>
+<br>
+<br>
+
+<h3> <strong> Mapa Parque Nacional Conguillío </strong> </h3>
+
+<p> <em> Curso: Mapas Web y Mapas Temáticos con R <em> </p>
+
+<br>
 
 ![](images/mapa_final.png)
-\
-\
+<br>
+<br>
 
-## **Cambio de la superficie de distintas clases de uso y cobertura de suelo**
+<h3> <strong> Cambio de la superficie de distintas clases de uso y cobertura de  suelo strong </strong> </h3>
+
+<p> <em> Curso: Introducción a Ecología del Paisaje en R <em> </p>
+
+<br>
 
 ![](images/plot_lulc.png)
 
-\
+<br>
 
 [**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
 
-\
+<br>
 
 <center>
 ![](images/logo_final.png){width="100"}

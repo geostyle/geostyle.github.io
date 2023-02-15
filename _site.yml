@@ -44,5 +44,6 @@ navbar:
       href: contacto.html
       icon: fa-envelope
 output:
-  rmdformats::downcute
+  html_document:
+    css: "style.css"
     
