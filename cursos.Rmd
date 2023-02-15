@@ -7,6 +7,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
+<br>
+
 <h1> <strong> Cursos Online (Asincrónicos) <strong> </h1>
 
 <br>

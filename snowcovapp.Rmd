@@ -6,6 +6,8 @@ title: ""
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+
 # ***SnowCovApp***
 
 <br>
