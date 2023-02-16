@@ -72,7 +72,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 <p class="contenido-servicio">-Estadística inferencial <br>
-                    -Geostadística <br>
+                    -Geoestadística <br>
                     -Modelos estadísticos (Regresión lineal, GLM, entre otros) <br>
                     -Modelos de Distribución de Especies (SDM) <br>
                     -Modelos de clasificación y de regresión mediante Machine Learning <br>
