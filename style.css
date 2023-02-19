@@ -98,3 +98,47 @@ ul {
 .que-aprenderas {
   font-weight: bold;
 }
+
+
+.grid-areas-softwares {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    
+}
+
+.areas {
+    border-radius: 10px; 
+    background: #0B2161; 
+    color: white; 
+  }
+  
+.softwares {
+    border-radius: 10px; 
+    background: #08298A; 
+    color: white; 
+  }
+
+.contenido-areas {
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+}
+  
+.contenido-softwares {
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+}
+
+.titulo-areas {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.titulo-softwares {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}

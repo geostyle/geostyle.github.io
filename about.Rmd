@@ -19,28 +19,52 @@ title: ""
 
 <br>
 
-***GeoStyle*** **es una consultora ambiental originaria de Chile, la cual ofrece consultorías privadas de diversos tipos y cursos/capacitaciones online.**
+***GeoStyle*** **es una consultora ambiental originaria de Chile, la cual ofrece consultorías privadas de diversos tipos y cursos / capacitaciones online.**
 
 <br>
 
-**Las principales áreas de GeoStyle son:**
+<div class="grid-areas-softwares"> 
+
+<div class="areas">
+
+<br>
+
+<h4 class="titulo-areas">Las principales áreas de GeoStyle son:</h4>
+
+<br>
+
+<p class="contenido-areas">
 
 -   **Teledetección**
 -   **SIG**
 -   **Ecología del paisaje**
 -   **Estadística**
 
+</p>
+
+</div>
+
+
+<div class="softwares">
+
 <br>
 
-**Principales softwares / plataformas utilizados:**
+<h4 class="titulo-softwares">Principales softwares / plataformas utilizados:</h4>
+
+<br>
+
+<p class="contenido-softwares">
 
 - **R**
-
 - **Google Earth Engine**
-
 - **Python**
-
 - **QGIS**
+
+</p>
+
+</div>
+
+</div>
 
 <br>
 
@@ -78,26 +102,52 @@ title: ""
 
 <br>
 
-***GeoStyle*** **is an environmental consulting company from Chile, which offers private consulting of various types and online courses/trainings..**
+***GeoStyle*** **is an environmental consulting company from Chile, which offers private consulting of various types and online courses / trainings..**
 
-**The main areas of GeoStyle are:**
+<br>
+
+<div class="grid-areas-softwares"> 
+
+<div class="areas">
+
+<br>
+
+<h4 class="titulo-areas">The main areas of GeoStyle are:</h4>
+
+<br>
+
+<p class="contenido-areas">
 
 -   **Remote sensing**
 -   **GIS**
 -   **Landscape Ecology**
 -   **Statistics**
 
+</p>
+
+</div>
+
+
+<div class="softwares">
+
 <br>
 
-**Main softwares / platformas used:**
+<h4 class="titulo-softwares">Main softwares / platformas used:</h4>
+
+<br>
+
+<p class="contenido-softwares">
 
 - **R**
-
 - **Google Earth Engine**
-
 - **Python**
-
 - **QGIS**
+
+</p>
+
+</div>
+
+</div>
 
 <br>
 
