@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="grid-servicios"> 
 
-<div class="servicio">
+<div class="servicio1">
 
 <br>
 
@@ -63,7 +63,7 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 
-<div class="servicio">
+<div class="servicio2">
 
 <br>
 
@@ -81,7 +81,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 
-<div class="servicio">
+<div class="servicio3">
 
 <br>
 
@@ -122,7 +122,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="grid-servicios"> 
 
-<div class="servicio">
+<div class="servicio1">
 
 <br>
 
@@ -140,7 +140,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 
-<div class="servicio">
+<div class="servicio2">
 
 <br>
 
@@ -157,7 +157,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 
-<div class="servicio">
+<div class="servicio3">
 
 <br>
 

@@ -60,7 +60,7 @@ ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    column-gap: 5px;
+    
 }
 
 
@@ -70,9 +70,27 @@ ul {
     font-weight: bold;
 }
 
+.servicio1 {
+    border-radius: 10px; 
+    background: #0B2161; 
+    color: white; 
+  }
+
+.servicio2 {
+    border-radius: 10px; 
+    background: #08298A; 
+    color: white; 
+  }
+  
+.servicio3 {
+    border-radius: 10px; 
+    background: #0431B4; 
+    color: white; 
+  }  
+
 .servicio {
     border-radius: 10px; 
-    background: linear-gradient(90deg, #162a7e, #4f65c2); 
+    background: #162a7e; 
     color: white; 
   }
   
@@ -83,5 +101,10 @@ ul {
 
 .que-aprenderas {
   font-weight: bold;
-  size: 100px;
+}
+
+.franja-final {
+  background-color: green;
+  height: 150px;
+  
 }
