@@ -20,8 +20,11 @@ title: ""
 
 <a href = "https://www.youtube.com/channel/UC3Hepnp1iAuiELS5kDGrReQ" target = "_blank" rel = "noopener noreferrer"> **YouTube** </a>
 
-\
-\
+<br>
+
+<hr>
+
+<br>
 
 
 <center>

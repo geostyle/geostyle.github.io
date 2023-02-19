@@ -33,7 +33,11 @@ title: ""
 [**Catálogo de los cursos**](https://geostyle.github.io/cursos.html)
 
 
-\
+<br>
+
+<hr>
+
+<br>
 
 <center>
 ![](images/logo_final.png){width="100"}

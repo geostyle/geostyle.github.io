@@ -30,7 +30,10 @@ Click <a href =  "https://andres-gee.users.earthengine.app/view/green-explorer" 
 
 
 
-\
-\
+<br>
+
+<hr>
+
+<br>
 
 <center>![](images/logo_final.png){width="100"}</center>

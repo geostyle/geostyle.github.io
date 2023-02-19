@@ -223,6 +223,9 @@ Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J., Karna, J.P
 Vaglio, G., Francini, S., Penna, D., Zuecco, G., Chirici, G., Berman, E., Coops, N. C., Castelli, G., Bresci, E., Preti, F., & Valentini, R. (2022). SnowWarp : An open science and open data tool for daily monitoring of snow dynamics. Environmental Modelling and Software, 156(July), 105477. <https://doi.org/10.1016/j.envsoft.2022.105477>
 
 <br>
+
+<hr>
+
 <br>
 
 <center>![](images/logo_final.png){width="100"}</center>

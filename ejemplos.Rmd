@@ -133,6 +133,10 @@ leaflet() %>%
 
 <br>
 
+<hr>
+
+<br>
+
 <center>
 ![](images/logo_final.png){width="100"}
 </center>

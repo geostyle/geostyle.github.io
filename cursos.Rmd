@@ -227,7 +227,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </ul>
 
-<hr class="hr-curso">
+<br>
+
+<br>
+
+<hr>
 
 <br>
 

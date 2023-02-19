@@ -125,9 +125,11 @@ title: ""
 
 <a href = "https://www.researchgate.net/profile/Andres-Salazar-14" target = "_blank" rel = "noopener noreferrer"> **Researchgate profile** </a>
 
+<br>
+
 <hr>
 
-\
+<br>
 
 <center>
 ![](images/logo_final.png){width="100"}
