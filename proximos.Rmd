@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 \
 \
 
-<a href = "https://youtu.be/ZEBfr7XqfVo" target = "_blank" rel = "noopener noreferrer"> **VIDEO PROMOCIONAL** </a>
+<a href = "https://youtu.be/mUjdmF8327I" target = "_blank" rel = "noopener noreferrer"> **VIDEO PROMOCIONAL** </a>
 
 \
 
@@ -77,7 +77,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
-[**6, 8 y 10 de marzo**]{style="color:red"} Desde las [**19:00 hasta las 20:30 hrs.**]{style="color:red"} de Chile
+[**Miércoles 15, viernes 17 y lunes 20 de marzo**]{style="color:red"} Desde las [**19:00 hasta las 20:30 hrs.**]{style="color:red"} de Chile
 
 \
 
@@ -198,7 +198,7 @@ Si quieres más información de como funciona PayPal, haz click <a href = "https
 
 \
 
-**1) Lunes 6/3:**
+**1) Miércoles 15/3:**
 
 -   Introducción a Google Earth Engine
 
@@ -207,12 +207,12 @@ Si quieres más información de como funciona PayPal, haz click <a href = "https
 -   Análisis de DEM (Digital Elevation Model)
 
 
-**2) Miércoles 8/3:**
+**2) Viernes 17/3:**
 
 -   Análisis de imágenes satelitales
 
 
-**3) Viernes 10/3:**
+**3) Lunes 20/3:**
 
 -   Índices espectrales
 
