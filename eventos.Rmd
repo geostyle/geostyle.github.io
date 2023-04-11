@@ -16,6 +16,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+![](images/curso_GEE_v6.gif){width="581"}
+
+\
+
 ![](images/afiche_gee_octubre.gif){width="581"}
 
 \
