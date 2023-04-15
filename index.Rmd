@@ -8,9 +8,11 @@ title: ""
 
 <p style="font-size: 22px; font-weight: bold; margin: 0px 60px;">Consultora Ambiental / Environmental Consultant</p>
 
+<p style="color: red; font-weight: bold;">New webpage<a href="https://geostyle.xyz/"> www.geostyle.xyz</a></p>
+
 <hr>
 
-<img src="images/logo_final.png" style = "width: 299px">
+<img src="images/logo_gs_v2.png" style = "width: 299px">
 
 \
 

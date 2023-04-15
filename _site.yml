@@ -8,41 +8,6 @@ navbar:
     - text: " "
       href: index.html
       icon: fa-home
-    - text: "Consultorías"
-      href: consultorias.html
-      icon: fa-users
-    - text: "Cursos"
-      icon: fa-star
-      menu: 
-        - text: "Catálogo"
-          href: cursos.html
-        - text: "Ejemplos"
-          href: ejemplos.html
-        - text: "Metodología"
-          href: metodologia.html
-        - text: "Opiniones"
-          href: opiniones.html
-    - text: "Eventos"
-      icon: fa-exclamation-circle
-      menu:
-       - text: "Próximos"
-         href: proximos.html
-       - text: "Anteriores"
-         href: eventos.html
-    - text: "Apps"
-      icon: fa-rocket
-      menu:
-       - text: "SnowCovApp"
-         href: snowcovapp.html
-       - text: "GreenExplorer"
-         href: green_explorer.html
-       - text: "Burn SeveridApp"
-         href: burn_severidapp.html
-    - text: "Sobre GeoStyle"
-      href: about.html
-    - text: "Contacto"
-      href: contacto.html
-      icon: fa-envelope
 output:
   html_document:
     css: "style.css"
